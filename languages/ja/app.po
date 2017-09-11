@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:53+0000\n"
-"PO-Revision-Date: 2017-09-11 06:27+0000\n"
+"PO-Revision-Date: 2017-09-11 10:06+0000\n"
 "Last-Translator: leao mett <leaomett@gmail.com>\n"
 "Language-Team: Japanese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/ja/>\n"
@@ -1649,7 +1649,7 @@ msgstr "{app_name} apk, {app_name} apk ダウンロード, {app_name} ダウン�
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
-msgstr "XAPK ( apk with obb file) {0}.Android用 apkをダウンロードする"
+msgstr "XAPK ( apk with obb file) {0}.Android用apkをダウンロードする"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"description\"]"
 msgid "Download Android {0} XAPK, full version with obb data file."
@@ -2123,7 +2123,7 @@ msgstr "{0} スクリーンショット {1}"
 
 msgctxt "[\"meta\"][\"Details_new\"][\"title\"]"
 msgid "{app_short_name} for Android - APK Download"
-msgstr "Android 用の {app_short_name} APKをダウンロード"
+msgstr "Android 用の {app_short_name} APK をダウンロード"
 
 msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
@@ -2140,7 +2140,7 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Versions\"][\"title\"]"
 msgid "{app_short_name} update version history for Android - APK Download"
-msgstr "Android用のバージョン更新履歴{app_short_name} APKをダウンロード"
+msgstr "Android用のバージョン更新履歴{app_short_name} APK をダウンロード"
 
 msgctxt "[\"meta\"][\"Versions\"][\"keywords\"]"
 msgid "{app_short_name}, download, old, version history, apk, release date, changelog"
@@ -2154,11 +2154,11 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"title\"]"
 msgid "Download {app_short_name} latest {version_name} Android APK"
-msgstr "{app_short_name} の最新バージョン {version_name} Android APKをダウンロード"
+msgstr "{app_short_name} の最新バージョン {version_name} Android APK をダウンロード"
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"title_old\"]"
 msgid "Download {app_short_name} {version_name} Android APK"
-msgstr "{app_short_name} {version_name} Android APKをダウンロード"
+msgstr "{app_short_name} {version_name} Android APK をダウンロード"
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"keywords\"]"
 msgid "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
