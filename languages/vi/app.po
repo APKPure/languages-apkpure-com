@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2017-09-14 02:17+0000\n"
+"PO-Revision-Date: 2017-09-19 03:32+0000\n"
 "Last-Translator: Isabella Heath <isabellaheath9@gmail.com>\n"
 "Language-Team: Vietnamese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/vi/>\n"
@@ -122,6 +122,7 @@ msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
 msgstr "Sắp xếp theo"
 
+#, fuzzy
 msgctxt "[\"HOT\"]"
 msgid "Hot"
 msgstr "Nổi bật"
@@ -294,6 +295,7 @@ msgctxt "[\"DETAIL-AUTHOR\"]"
 msgid "Author"
 msgstr "Tác giả"
 
+#, fuzzy
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
 msgstr "đánh giá"
@@ -453,7 +455,7 @@ msgstr "{0} kết quả tìm kiếm được tìm thấy."
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
-msgstr "Không có kết quả nào được tìm thấy? Thử tìm kiếm nâng cao một lần nữa."
+msgstr "Không có kết quả nào được tì m thấy? Thử tìm kiếm nâng cao một lần nữa."
 
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
@@ -800,6 +802,7 @@ msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
 msgstr "Tải về APK"
 
+#, fuzzy
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
 msgstr "[Official] Ứng dụng {0} này không thể chỉnh sửa."
@@ -832,6 +835,7 @@ msgctxt "[\"js\"][\"REGION_DOWN-REGION_ERROR\"]"
 msgid "Package name or region error , try again"
 msgstr "Tên gói hoặc lỗi vùng, thử lại"
 
+#, fuzzy
 msgctxt "[\"js\"][\"REGION_DOWN-INVALID_APP\"]"
 msgid "Invalid app package name,"
 msgstr "Tên gói ứng dụng hợp lệ,"
@@ -1082,12 +1086,14 @@ msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
 msgstr "Tải {0} APK Ứng dụng Android Trực tuyến - Free Pure APK Downloader"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_app\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
 msgstr ""
 "{0} tải apk, tải miễn phí {0}, {0} tải apk, tải {0} apk, {0} apk downloader, "
 "{0} android"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
 msgstr ""
@@ -1484,6 +1490,7 @@ msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2016 APKPure. All rights reserved."
 msgstr "Bản quyền © 2014-2016 APKPure. Tất cả quyền đều được bảo lưu."
 
+#, fuzzy
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
 msgstr "APK Downloader (Vùng miễn phí )"
@@ -1592,26 +1599,26 @@ msgstr "Tải Ứng dụng"
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
 msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
 msgstr ""
-"<p class=\"desc\"> Sử dụng APKPure để tải/cập nhật ứng dụng này, nhanh hơn, "
+"<p class=\"desc\">Sử dụng APKPure để tải/cập nhật ứng dụng này, nhanh hơn, "
 "miễn phí và tiết kiệm!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1_XAPK\"]"
 msgid "<p class=\"desc\">Using APKPure App to install this XAPK, faster, free and saving data!</p>"
 msgstr ""
-"<p class=\"desc\"> Sử dụng Ứng dụng APKPure để cài đặt XAPK này, nhanh hơn, "
+"<p class=\"desc\">Sử dụng Ứng dụng APKPure để cài đặt XAPK này, nhanh hơn, "
 "miễn phí và tiết kiệm dữ liệu!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
 msgstr ""
-"<p class=\"tit\"> Sử dụng Ứng dụng APKPure</p><p class=\"des\"> Nhanh hơn, "
+"<p class=\"tit\">Sử dụng Ứng dụng APKPure</p><p class=\"des\"> Nhanh hơn, "
 "miễn phí và tiết kiệm dữ liệu!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
 msgstr ""
-"<p class=\"tit\"> Sử dụng Ứng dụng APKPure</p><p class=\"des\"> Cài đặt "
-"XAPK, nhanh hơn, miễn phí và tiết kiệm dữ liệu!</p>"
+"<p class=\"tit\">Sử dụng Ứng dụng APKPure</p><p class=\"des\"> Cài đặt XAPK, "
+"nhanh hơn, miễn phí và tiết kiệm dữ liệu!</p>"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-NOT_TRUSTED\"]"
 msgid "[Not Trusted] This {0} APK is a modified version, we don't recommend installing it."
@@ -1741,6 +1748,7 @@ msgctxt "[\"COMMENT-REPORT\"]"
 msgid "Report"
 msgstr "Báo cáo"
 
+#, fuzzy
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
 msgstr "Hiển thị danh sách các bình luận"
@@ -1785,6 +1793,7 @@ msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
 msgid "Most Recent"
 msgstr "Gần đây nhất"
 
+#, fuzzy
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
 msgstr "Hiển thị tự động"
@@ -1825,6 +1834,7 @@ msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Be the first to comment."
 msgstr "Trở thành người đầu tiên bình luận."
 
+#, fuzzy
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
 msgstr "Xếp hạng"
@@ -1841,6 +1851,7 @@ msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
 msgstr "Xếp hạng lỗi, xin thử lại"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
 msgstr "Bình luận vô danh"
@@ -2061,6 +2072,7 @@ msgstr ""
 "Bằng cách Đăng kí bạn đã đồng ý với <a href='/terms-service.html' "
 "target='_blank'>điều khoản dịch vụ</a> của chúng tôi"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Download\"][\"keywords\"]"
 msgid "apk download, region free apk download"
 msgstr "tải apk, tải apk tự do"
@@ -2069,14 +2081,17 @@ msgctxt "[\"meta\"][\"Download\"][\"description\"]"
 msgid "download free apps APK for Android phone and tablet."
 msgstr "tải về ứng dụng miễn phí APK cho điện thoại và máy tính bảng Android."
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Topics\"][\"title\"]"
 msgid "Topics | APKPure.com"
 msgstr "Chuyên mục | APKPure.com"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Topics\"][\"keywords\"]"
 msgid "Topics"
 msgstr "Chuyên mục"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Topics\"][\"description\"]"
 msgid "Topics"
 msgstr "Chuyên mục"
