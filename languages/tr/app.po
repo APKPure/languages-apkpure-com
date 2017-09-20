@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2017-09-04 12:20+0000\n"
-"Last-Translator: Tugay Acar <tugayls12@gmail.com>\n"
+"PO-Revision-Date: 2017-09-20 09:39+0000\n"
+"Last-Translator: Lelouch <nevzatsoylu2000@gmail.com>\n"
 "Language-Team: Turkish "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/tr/>\n"
 "Language: tr\n"
@@ -2218,27 +2218,22 @@ msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
 msgid "Vote"
 msgstr "Oy ver"
 
-#, fuzzy
 msgctxt "[\"UPDATE\"]"
 msgid "Update"
 msgstr "Güncelleme"
 
-#, fuzzy
 msgctxt "[\"VERSION-PREVIOUS\"]"
 msgid "Previous versions"
 msgstr "Önceki sürümler"
 
-#, fuzzy
 msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
-msgstr "Versiyonlar"
+msgstr "Sürümler"
 
-#, fuzzy
 msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
 msgid "{0} Previous Versions"
 msgstr "{0} Önceki Sürümler"
 
-#, fuzzy
 msgctxt "[\"tip\"][\"SCREEN_INDEX\"]"
 msgid "{0} screenshot {1}"
 msgstr "{0} Ekran Görüntüsü {1}"
