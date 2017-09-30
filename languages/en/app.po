@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-18 08:13+0000\n"
-"PO-Revision-Date: 2017-09-28 07:05+0000\n"
-"Last-Translator: Châu Đỗ <dominhchaulclqd@gmail.com>\n"
+"PO-Revision-Date: 2017-09-30 09:05+0000\n"
+"Last-Translator: ប៉ុកណូ រ៉ូយ៉ាល់ <royalpokno68@gmail.com>\n"
 "Language-Team: English "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/en/>\n"
 "Language: en\n"
@@ -350,15 +350,13 @@ msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
 msgstr "Flag as inappropriate"
 
-#, fuzzy
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
-msgstr "votes BTS\n"
+msgstr "votes"
 
-#, fuzzy
 msgctxt "[\"DETAIL-THE_DESCRIPTION\"]"
 msgid "The description of {0}"
-msgstr "Be Thúi Châu"
+msgstr "The description of {0}"
 
 msgctxt "[\"DETAIL-OFFICIAL_TRAILER\"]"
 msgid "{0} for Android official Trailer"
