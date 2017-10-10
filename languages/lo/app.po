@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-23 18:05+0000\n"
-"PO-Revision-Date: 2017-07-23 18:12+0000\n"
-"Last-Translator: Buffalo <Notesbuffalo@gmail.com>\n"
+"PO-Revision-Date: 2017-10-10 23:18+0000\n"
+"Last-Translator: Dothavisak <enox1120@outlook.com>\n"
 "Language-Team: Lao "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/lo/>\n"
 "Language: lo\n"
@@ -14,17 +14,14 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 2.14.1\n"
 
-#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "GAMES"
+msgstr "ເກມ"
 
-#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "APPS"
+msgstr "ແອັບ"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
