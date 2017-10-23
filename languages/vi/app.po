@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2017-08-31 15:34+0000\n"
-"Last-Translator: Comics Video <comicsrovio@gmail.com>\n"
+"PO-Revision-Date: 2017-10-17 11:30+0000\n"
+"Last-Translator: Thu Le <thule4951@gmail.com>\n"
 "Language-Team: Vietnamese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/vi/>\n"
 "Language: vi\n"
@@ -38,6 +38,7 @@ msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
 msgstr "TRÒ CHƠI MỚI"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
 msgstr "ỨNG DỤNG MỚI"
@@ -294,6 +295,7 @@ msgctxt "[\"DETAIL-AUTHOR\"]"
 msgid "Author"
 msgstr "Tác giả"
 
+#, fuzzy
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
 msgstr "đánh giá"
@@ -453,7 +455,7 @@ msgstr "{0} kết quả tìm kiếm được tìm thấy."
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
-msgstr "Không có kết quả nào được tìm thấy? Thử tìm kiếm nâng cao một lần nữa."
+msgstr "Không có kết quả nào được tì m thấy? Thử tìm kiếm nâng cao một lần nữa."
 
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
@@ -800,6 +802,7 @@ msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
 msgstr "Tải về APK"
 
+#, fuzzy
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
 msgstr "[Official] Ứng dụng {0} này không thể chỉnh sửa."
@@ -832,6 +835,7 @@ msgctxt "[\"js\"][\"REGION_DOWN-REGION_ERROR\"]"
 msgid "Package name or region error , try again"
 msgstr "Tên gói hoặc lỗi vùng, thử lại"
 
+#, fuzzy
 msgctxt "[\"js\"][\"REGION_DOWN-INVALID_APP\"]"
 msgid "Invalid app package name,"
 msgstr "Tên gói ứng dụng hợp lệ,"
@@ -1074,7 +1078,6 @@ msgctxt "[\"meta\"][\"Category_featured\"][\"keywords\"]"
 msgid "{0}"
 msgstr "{0}"
 
-#, fuzzy
 msgctxt "[\"meta\"][\"Category_featured\"][\"description\"]"
 msgid "{0}"
 msgstr "{0}"
@@ -1083,12 +1086,14 @@ msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
 msgstr "Tải {0} APK Ứng dụng Android Trực tuyến - Free Pure APK Downloader"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_app\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
 msgstr ""
 "{0} tải apk, tải miễn phí {0}, {0} tải apk, tải {0} apk, {0} apk downloader, "
 "{0} android"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
 msgstr ""
@@ -1391,6 +1396,7 @@ msgctxt "[\"category\"][\"APP_WIDGETS\"]"
 msgid "Widgets"
 msgstr "Tiện ích"
 
+#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "TRÒ CHƠI"
@@ -1485,6 +1491,7 @@ msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2016 APKPure. All rights reserved."
 msgstr "Bản quyền © 2014-2016 APKPure. Tất cả quyền đều được bảo lưu."
 
+#, fuzzy
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
 msgstr "APK Downloader (Vùng miễn phí )"
@@ -1593,26 +1600,26 @@ msgstr "Tải Ứng dụng"
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
 msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
 msgstr ""
-"<p class=\"desc\"> Sử dụng APKPure để tải/cập nhật ứng dụng này, nhanh hơn, "
+"<p class=\"desc\">Sử dụng APKPure để tải/cập nhật ứng dụng này, nhanh hơn, "
 "miễn phí và tiết kiệm!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1_XAPK\"]"
 msgid "<p class=\"desc\">Using APKPure App to install this XAPK, faster, free and saving data!</p>"
 msgstr ""
-"<p class=\"desc\"> Sử dụng Ứng dụng APKPure để cài đặt XAPK này, nhanh hơn, "
+"<p class=\"desc\">Sử dụng Ứng dụng APKPure để cài đặt XAPK này, nhanh hơn, "
 "miễn phí và tiết kiệm dữ liệu!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
 msgstr ""
-"<p class=\"tit\"> Sử dụng Ứng dụng APKPure</p><p class=\"des\"> Nhanh hơn, "
+"<p class=\"tit\">Sử dụng Ứng dụng APKPure</p><p class=\"des\"> Nhanh hơn, "
 "miễn phí và tiết kiệm dữ liệu!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
 msgstr ""
-"<p class=\"tit\"> Sử dụng Ứng dụng APKPure</p><p class=\"des\"> Cài đặt "
-"XAPK, nhanh hơn, miễn phí và tiết kiệm dữ liệu!</p>"
+"<p class=\"tit\">Sử dụng Ứng dụng APKPure</p><p class=\"des\"> Cài đặt XAPK, "
+"nhanh hơn, miễn phí và tiết kiệm dữ liệu!</p>"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-NOT_TRUSTED\"]"
 msgid "[Not Trusted] This {0} APK is a modified version, we don't recommend installing it."
@@ -1742,6 +1749,7 @@ msgctxt "[\"COMMENT-REPORT\"]"
 msgid "Report"
 msgstr "Báo cáo"
 
+#, fuzzy
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
 msgstr "Hiển thị danh sách các bình luận"
@@ -1786,6 +1794,7 @@ msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
 msgid "Most Recent"
 msgstr "Gần đây nhất"
 
+#, fuzzy
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
 msgstr "Hiển thị tự động"
@@ -1826,6 +1835,7 @@ msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Be the first to comment."
 msgstr "Trở thành người đầu tiên bình luận."
 
+#, fuzzy
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
 msgstr "Xếp hạng"
@@ -1842,6 +1852,7 @@ msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
 msgstr "Xếp hạng lỗi, xin thử lại"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
 msgstr "Bình luận vô danh"
@@ -2062,6 +2073,7 @@ msgstr ""
 "Bằng cách Đăng kí bạn đã đồng ý với <a href='/terms-service.html' "
 "target='_blank'>điều khoản dịch vụ</a> của chúng tôi"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Download\"][\"keywords\"]"
 msgid "apk download, region free apk download"
 msgstr "tải apk, tải apk tự do"
@@ -2070,14 +2082,17 @@ msgctxt "[\"meta\"][\"Download\"][\"description\"]"
 msgid "download free apps APK for Android phone and tablet."
 msgstr "tải về ứng dụng miễn phí APK cho điện thoại và máy tính bảng Android."
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Topics\"][\"title\"]"
 msgid "Topics | APKPure.com"
 msgstr "Chuyên mục | APKPure.com"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Topics\"][\"keywords\"]"
 msgid "Topics"
 msgstr "Chuyên mục"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Topics\"][\"description\"]"
 msgid "Topics"
 msgstr "Chuyên mục"
@@ -2217,3 +2232,149 @@ msgstr ""
 "Thay thế {app_type} phổ biến bằng {app_short_name} cho Android, máy tính bản "
 "Android và nhiều hơn. Tải về {similar_count} {app_type} hàng đầu như "
 "{app_short_name}, tất cả {app_type} được đề nghị bởi APKPure."
+
+msgctxt "[\"IGNORE\"]"
+msgid "Ignore"
+msgstr "Bỏ qua"
+
+msgctxt "[\"OK\"]"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "[\"TOP-UPDATED-APPS\"]"
+msgid "Top Updated Apps"
+msgstr "Ứng dụng đã Cập nhật Hàng đầu"
+
+msgctxt "[\"TOP-UPDATED-GAMES\"]"
+msgid "Top Updated Games"
+msgstr "Trò chơi đã Cập nhật Hàng đầu"
+
+msgctxt "[\"SEARCH-TRENDING\"]"
+msgid "trending searches"
+msgstr "các xu hướng tìm kiếm"
+
+msgctxt "[\"SEARCH-HISTORY\"]"
+msgid "Search history"
+msgstr "Lịch sử tìm kiếm"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"tw\"]"
+msgid "你是否把當前語言切換成<strong>繁體中文</strong>？"
+msgstr "你是否把當前語言切換成<strong>繁體中文</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
+msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+msgstr "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
+msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
+msgstr "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ar\"]"
+msgid "هل تريد تغيير لغة التفضيل إلى </strong>اللغة العربية<strong>؟"
+msgstr "هل تريد تغيير لغة التفضيل إلى </strong>اللغة العربية<strong>؟"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"in\"]"
+msgid "क्या आप अपनी वरीयता भाषा को <strong>हिंदी</strong> में बदलना चाहते हैं?"
+msgstr "क्या आप अपनी वरीयता भाषा को <strong>हिंदी</strong> में बदलना चाहते हैं?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
+msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
+msgstr ""
+"Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa "
+"Indonesia</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
+msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+msgstr "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
+msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"jp\"]"
+msgid "あなたの嗜好言語を<strong>日本語</strong>に変更したいですか？"
+msgstr "あなたの嗜好言語を<strong>日本語</strong>に変更したいですか?"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"tw\"]"
+msgid "忽略"
+msgstr "忽略"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
+msgid "Ignorar"
+msgstr "Ignorar"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
+msgid "игнорировать"
+msgstr "игнорировать"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ar\"]"
+msgid "تجاهل"
+msgstr "تجاهل"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"in\"]"
+msgid "नज़रअंदाज़ करना"
+msgstr "नज़रअंदाज़ करना"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"ru\"]"
+msgid "ОК"
+msgstr "OK"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
+msgid "DE ACUERDO"
+msgstr "DE ACUERDO"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
+msgid "Mengabaikan"
+msgstr "Mengabaikan"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
+msgid "Ignorare"
+msgstr "Ignorare"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
+msgid "Negeren"
+msgstr "Negeren"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"jp\"]"
+msgid "無視する"
+msgstr "無視する"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"tw\"]"
+msgid "好的"
+msgstr "好的"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"ar\"]"
+msgid "حسنا"
+msgstr "حسنا"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"in\"]"
+msgid "ठीक"
+msgstr "ठीक"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"id\"]"
+msgid "baik"
+msgstr "baik"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
+msgid "ok"
+msgstr "ok"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"jp\"]"
+msgid "[OK]"
+msgstr "[OK]"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"title\"]"
+msgid "Search - APKPure Android App Store"
+msgstr "Tìm kiếm - APKPure Cửa hàng ứng dụng Android"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"keywords\"]"
+msgid "Search {add_trending}"
+msgstr "Tìm kiếm {add_trending}"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"description\"]"
+msgid "Discover Android games free download on APKPure Android App Store."
+msgstr "Khám phá tải trò chơi Android miễn phí trên APKPure Android App Store."

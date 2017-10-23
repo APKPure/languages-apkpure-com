@@ -1,10 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-15 06:34+0000\n"
+"PO-Revision-Date: 2017-10-13 19:00+0000\n"
+"Last-Translator: Eduado Gonzalez <eduardo.gonzalez.08@gmail.com>\n"
+"Language-Team: Spanish "
+"<https://translate.apkpure.com/projects/apkpure/apkpurecom/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.14.1\n"
+
+#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "Juegos"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "Aplicaciones"
+msgstr "APPS"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
@@ -24,7 +41,7 @@ msgstr "Juegos nuevos"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "Aplicaciones nuevas"
+msgstr "Nueva APP"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -40,7 +57,7 @@ msgstr "Instalar APK"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "Descargar APK"
+msgstr "Bajar APK"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
@@ -52,11 +69,11 @@ msgstr "Aplicación de APKPure"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
-msgstr "Descargar"
+msgstr "Bajar"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
-msgstr "Seleccionar idioma"
+msgstr "Escoger idioma"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
@@ -68,11 +85,11 @@ msgstr "Leer más"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
-msgstr "Juego"
+msgstr "JUEGO"
 
 msgctxt "[\"APP\"]"
 msgid "APP"
-msgstr "Aplicación"
+msgstr "APP"
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
@@ -80,7 +97,7 @@ msgstr "Juegos"
 
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr "Aplicaciones"
+msgstr "Apps"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
@@ -96,7 +113,7 @@ msgstr "Juegos XAPK"
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr "Aplicaciones XAPK"
+msgstr "Apps XAPK"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
@@ -116,7 +133,7 @@ msgstr "Descargas"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
-msgstr "Lo más nuevo"
+msgstr "Más recientes"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
@@ -152,11 +169,11 @@ msgstr "Juegos populares en las últimas {0} horas"
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr "Aplicaciones populares en las últimas {0} horas"
+msgstr "Apps populares en las últimas {0} horas"
 
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
-msgstr "Aplicaciones populares de hoy"
+msgstr "Apps populares de hoy"
 
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
@@ -164,11 +181,11 @@ msgstr "Juegos populares de hoy"
 
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
-msgstr "Juegos populares"
+msgstr "Juegos chidos"
 
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
-msgstr "Aplicaciones populares"
+msgstr "Apps chidas"
 
 msgctxt "[\"CLOSE\"]"
 msgid "Close"
@@ -184,7 +201,7 @@ msgstr "Últimos juegos actualizados"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr "Últimas aplicaciones actualizadas"
+msgstr "Últimas Apps actualizadas"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
@@ -204,19 +221,19 @@ msgstr "Similar o relacionado"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr "Descargar juegos y aplicaciones Android gratis."
+msgstr "Bajar juegos y aplicaciones Android gratis."
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr "Descargar juegos y aplicaciones Android gratis."
+msgstr "Bajar juegos y aplicaciones Android gratis."
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
-msgstr "¿Cómo descargar archivos APK?"
+msgstr "¿Cómo se bajan los archivos APK?"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
-msgstr "Preguntas y respuestas frecuentes"
+msgstr "Preguntas y respuestas más comunes"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
@@ -224,19 +241,21 @@ msgstr "Categorías populares"
 
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr "Descargar APK"
+msgstr "Bajar APK"
 
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
-msgstr "Verification code"
+msgstr "Código de verificación"
 
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr "The verification code is incorrect!"
+msgstr "¡El código de verificación es incorrecto!"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr "Enter the code(s) as you see in the image, then click \"Download\"."
+msgstr ""
+"Introduzca el(los) código(s) como se ve en la imagen y, a continuación, haga "
+"clic en \"Bajar\"."
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
@@ -260,15 +279,15 @@ msgstr "Juego de pago"
 
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr "Aplicación de pago"
+msgstr "App de pago"
 
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
-msgstr "Los juegos de pago no están disponibles para descargar"
+msgstr "Los juegos de pago no están disponibles para bajarlos"
 
 msgctxt "[\"DETAIL-PAID_APP_DES\"]"
 msgid "Paid apps are not available to download"
-msgstr "Las aplicaciones de pago no están disponibles para descargar"
+msgstr "Las apps de pago no están disponibles para descargarlos"
 
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
@@ -276,11 +295,11 @@ msgstr "¿Por qué podemos garantizar que los APK son 100% seguros?"
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
-msgstr "Verificación válida"
+msgstr "Verificación validada"
 
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
-msgstr "XAPK es un APK con los datos OBB, haga clic para obtener el instalador XAPK"
+msgstr "XAPK es un APK con datos OBB, haga clic para obtener el instalador XAPK"
 
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
@@ -296,11 +315,11 @@ msgstr "Última Versión"
 
 msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
-msgstr "Fecha De Publicación"
+msgstr "Fecha de Publicación"
 
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
-msgstr "Conseguirlo en"
+msgstr "Obtenlo en"
 
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
@@ -336,7 +355,7 @@ msgstr "Versión"
 
 msgctxt "[\"DETAIL-UPDATE_ON\"]"
 msgid "Update on"
-msgstr "Actualización sobre"
+msgstr "Actualización de"
 
 msgctxt "[\"DETAIL-SIGNATURE\"]"
 msgid "Signature"
@@ -344,19 +363,19 @@ msgstr "Firma"
 
 msgctxt "[\"DETAIL-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr "SHA1 Del Archivo"
+msgstr "SHA1 del archivo"
 
 msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
 msgid "APK File SHA1"
-msgstr "SHA1 Del Archivo APK"
+msgstr "SHA1 del archivo APK"
 
 msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
-msgstr "SHA1 Del Archivo XAPK"
+msgstr "SHA1 del archivo XAPK"
 
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
-msgstr "Qué hay nuevo"
+msgstr "Novedades"
 
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
@@ -364,11 +383,11 @@ msgstr "Historial de Versiones"
 
 msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
-msgstr "Más Contenido del Desarrollador"
+msgstr "Más del Desarrollador"
 
 msgctxt "[\"DETAIL-MORE_FROM\"]"
 msgid "More From {0}"
-msgstr "Más Contenido del {0}"
+msgstr "Más de {0}"
 
 msgctxt "[\"DETAIL-COMMENTS\"]"
 msgid "Comments"
@@ -476,7 +495,7 @@ msgstr "Informe"
 
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
-msgstr "comment collapsed"
+msgstr "comentario colapsado"
 
 msgctxt "[\"COMMENT-POST\"]"
 msgid "Post"
@@ -564,47 +583,51 @@ msgstr "Votar"
 
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
-msgstr "Quick login error, please try again."
+msgstr "Error de inicio de sesión rápido, por favor inténtelo de nuevo."
 
 msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
 msgid "Incorrect mail or name"
-msgstr "Incorrect mail or name"
+msgstr "Correo o nombre incorrecto"
 
 msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
-msgstr "Incorrect in discussion"
+msgstr "Incorrecto en la discusión"
 
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
-msgstr "Vote failed, repeated"
+msgstr "Voto fallido, repetido"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Defeat,your post contains sensitive terms"
-msgstr "Defeat,your post contains sensitive terms"
+msgstr "Cuidado, tu mensaje contiene términos confidenciales"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
 msgid "Your post contains sensitive terms and is pending approval by an admin"
-msgstr "Your post contains sensitive terms and is pending approval by an admin"
+msgstr ""
+"Su publicación contiene términos confidenciales y está pendiente de "
+"aprobación por parte de un administrador."
 
 msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
 msgid "Your post contains link and is pending approval by an admin"
-msgstr "Your post contains link and is pending approval by an admin"
+msgstr ""
+"Su mensaje contiene un enlace y está pendiente de aprobación por parte de un "
+"administrador."
 
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Comment forbidden"
-msgstr "Comment forbidden"
+msgstr "Comentario prohibido"
 
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
-msgstr "Comment unknown"
+msgstr "Comentario desconocido"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
-msgstr "Invalid comment parameter"
+msgstr "Parámetro de comentario no válido"
 
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
-msgstr "Invalid Video URL"
+msgstr "URL de vídeo no válida"
 
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
@@ -1589,3 +1612,19 @@ msgstr "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
 msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
 msgstr "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
+
+msgctxt "[\"IGNORE\"]"
+msgid "Ignore"
+msgstr "Ignorar"
+
+msgctxt "[\"OK\"]"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "[\"TOP-UPDATED-APPS\"]"
+msgid "Top Updated Apps"
+msgstr "Aplicaciones más actualizadas"
+
+msgctxt "[\"TOP-UPDATED-GAMES\"]"
+msgid "Top Updated Games"
+msgstr "Juegos más actualizados"

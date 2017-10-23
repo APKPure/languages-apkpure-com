@@ -2,109 +2,125 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-21 03:19+0000\n"
-"PO-Revision-Date: 2017-09-24 07:11+0000\n"
-"Last-Translator: Saw moe eh <sawmoeeh1949@gmail.com>\n"
-"Language-Team: Burmese "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/my/>\n"
-"Language: my\n"
+"POT-Creation-Date: 2017-09-18 08:13+0000\n"
+"PO-Revision-Date: 2017-09-30 18:20+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
 "X-Generator: Weblate 2.14.1\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "ဂိမ္းမ်ားcoc"
+msgstr ""
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "အက္ပလီေကး႐ွင္းမ်ား"
+msgstr ""
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
-msgstr "XAPK"
+msgstr ""
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "အသစ္"
+msgstr ""
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr "ထုတ္ကုန္မ်ား"
+msgstr ""
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "ဂိမ္းအသစ္"
+msgstr ""
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "အက္ပလီေကး႐ွင္းအသစ္"
+msgstr ""
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr "XAPKဂိမ္း"
+msgstr ""
 
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr "XAPK အက္ပလီေကး႐ွင္း"
+msgstr ""
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "ေဆာ့ဝဲသြင္းရန္"
+msgstr ""
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "ေဆာ့ဝဲေဒါင္းရန္"
+msgstr ""
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "ေဆာ့ဝဲအားစီစစ္ရန္"
+msgstr ""
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr "APKPure အက္ပလီေကး႐ွင္း"
+msgstr ""
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
-msgstr "ေဒါင္းေလာဒ္."
+msgstr ""
+
+msgctxt "[\"IGNORE\"]"
+msgid "Ignore"
+msgstr ""
+
+msgctxt "[\"OK\"]"
+msgid "OK"
+msgstr ""
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
-msgstr "ဘာသာစကားေရြးခ်ယ္ပါ"
+msgstr ""
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
-msgstr "အခမဲ."
+msgstr ""
+
+msgctxt "[\"TOP-UPDATED-APPS\"]"
+msgid "Top Updated Apps"
+msgstr ""
+
+msgctxt "[\"TOP-UPDATED-GAMES\"]"
+msgid "Top Updated Games"
+msgstr ""
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr "ပိုမိုသိ႐ွိရန္"
+msgstr ""
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
-msgstr "ဂိမ္း"
+msgstr ""
 
 msgctxt "[\"APP\"]"
 msgid "APP"
-msgstr "အက္ပလီေကး႐ွင္း"
+msgstr ""
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
-msgstr "ဂိမ္းမ်ား"
+msgstr ""
 
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr "ေဆာ့ဝဲမ်ား"
+msgstr ""
 
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr "ပိုမိုသိ႐ွိရန္"
+msgstr ""
 
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
-msgstr "XAPK"
+msgstr ""
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
@@ -266,6 +282,10 @@ msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
 msgstr ""
 
+msgctxt "[\"UPDATE\"]"
+msgid "Update"
+msgstr ""
+
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
 msgstr ""
@@ -378,6 +398,10 @@ msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
 msgstr ""
 
+msgctxt "[\"DETAIL-MORE_FROM\"]"
+msgid "More From {0}"
+msgstr ""
+
 msgctxt "[\"DETAIL-COMMENTS\"]"
 msgid "Comments"
 msgstr ""
@@ -464,6 +488,18 @@ msgstr ""
 
 msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
+msgstr ""
+
+msgctxt "[\"VERSION-PREVIOUS\"]"
+msgid "Previous versions"
+msgstr ""
+
+msgctxt "[\"VERSION-VERSIONS\"]"
+msgid "Versions"
+msgstr ""
+
+msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
+msgid "Requires Android"
 msgstr ""
 
 msgctxt "[\"COMMENT-REPORT\"]"
@@ -810,6 +846,14 @@ msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
 msgstr ""
 
+msgctxt "[\"SEARCH-TRENDING\"]"
+msgid "trending searches"
+msgstr ""
+
+msgctxt "[\"SEARCH-HISTORY\"]"
+msgid "Search history"
+msgstr ""
+
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
 msgstr ""
@@ -1106,8 +1150,20 @@ msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
 msgstr ""
 
+msgctxt "[\"tip\"][\"SHORT_NAME\"]"
+msgid "{0}"
+msgstr ""
+
+msgctxt "[\"tip\"][\"VERSION\"]"
+msgid "Download {app_short_name} v{version_name} for android"
+msgstr ""
+
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
+msgstr ""
+
+msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
+msgid "{0} Previous Versions"
 msgstr ""
 
 msgctxt "[\"tip\"][\"LIST_ICON\"]"
@@ -1150,6 +1206,10 @@ msgctxt "[\"tip\"][\"SCREEN\"]"
 msgid "{0} apk screenshot"
 msgstr ""
 
+msgctxt "[\"tip\"][\"SCREEN_INDEX\"]"
+msgid "{0} screenshot {1}"
+msgstr ""
+
 msgctxt "[\"tip\"][\"CATEGORY_GAME\"]"
 msgid "Download more {0} games"
 msgstr ""
@@ -1180,6 +1240,114 @@ msgstr ""
 
 msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"tw\"]"
+msgid "你是否把當前語言切換成<strong>繁體中文</strong>？"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
+msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
+msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ar\"]"
+msgid "هل تريد تغيير لغة التفضيل إلى </strong>اللغة العربية<strong>؟"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"in\"]"
+msgid "क्या आप अपनी वरीयता भाषा को <strong>हिंदी</strong> में बदलना चाहते हैं?"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
+msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
+msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
+msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"jp\"]"
+msgid "あなたの嗜好言語を<strong>日本語</strong>に変更したいですか？"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"tw\"]"
+msgid "忽略"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
+msgid "Ignorar"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
+msgid "игнорировать"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ar\"]"
+msgid "تجاهل"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"in\"]"
+msgid "नज़रअंदाज़ करना"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
+msgid "Mengabaikan"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
+msgid "Ignorare"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
+msgid "Negeren"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"jp\"]"
+msgid "無視する"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"tw\"]"
+msgid "好的"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
+msgid "DE ACUERDO"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"ru\"]"
+msgid "ОК"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"ar\"]"
+msgid "حسنا"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"in\"]"
+msgid "ठीक"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"id\"]"
+msgid "baik"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
+msgid "ok"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
+msgid "OK"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"jp\"]"
+msgid "[OK]"
 msgstr ""
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
@@ -1322,6 +1490,30 @@ msgctxt "[\"meta\"][\"Details\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
 msgstr ""
 
+msgctxt "[\"meta\"][\"Details_new\"][\"title\"]"
+msgid "{app_short_name} for Android - APK Download"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Details_new\"][\"keywords\"]"
+msgid "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
+msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Versions\"][\"title\"]"
+msgid "{app_short_name} update version history for Android - APK Download"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Versions\"][\"keywords\"]"
+msgid "{app_short_name}, download, old, version history, apk, release date, changelog"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Versions\"][\"description\"]"
+msgid "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
+msgstr ""
+
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
 msgstr ""
@@ -1332,6 +1524,26 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Details_download\"][\"description\"]"
 msgid "{app_name} {version_name} APK Download"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title\"]"
+msgid "Download {app_short_name} latest {version_name} Android APK"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title_old\"]"
+msgid "Download {app_short_name} {version_name} Android APK"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"keywords\"]"
+msgid "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"description\"]"
+msgid "{app_short_name} Android latest {version_name} APK Download and Install. {app_short_description}"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"description_old\"]"
+msgid "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
 msgstr ""
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
@@ -1430,6 +1642,18 @@ msgctxt "[\"meta\"][\"Search\"][\"description\"]"
 msgid "{0}"
 msgstr ""
 
+msgctxt "[\"meta\"][\"Search_hot\"][\"title\"]"
+msgid "Search - APKPure Android App Store"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"keywords\"]"
+msgid "Search {add_trending}"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"description\"]"
+msgid "Discover Android games free download on APKPure Android App Store."
+msgstr ""
+
 msgctxt "[\"meta\"][\"New\"][\"title\"]"
 msgid "Download the latest {0} APK | APKPure.com"
 msgstr ""
@@ -1515,21 +1739,13 @@ msgid "{0}"
 msgstr ""
 
 msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
-msgid "Top best alternative {app_category} {app_type} like {app_name} for Android 2017-2018 | APKPure.com"
+msgid "{app_type} Like {app_short_name}"
 msgstr ""
 
 msgctxt "[\"meta\"][\"Similar\"][\"keywords\"]"
-msgid "{app_name} alternative, {app_name} similar {app_type}, {app_category} {app_type} like {app_name}"
+msgid "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_category} {app_type} like {app_short_name}"
 msgstr ""
 
-msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
-msgid "Popular alternative {app_type} to {app_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_name}, all {app_type} suggested by APKPure."
-msgstr ""
-
-#, fuzzy
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
 msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
 msgstr ""
-"Popular alternative {app_type} to {app_short_name} for Android, Android "
-"tablet and more. Download top {similar_count} {app_type} like "
-"{app_short_name}, all {app_type} suggested by APKPure."

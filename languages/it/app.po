@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-10 14:21+0000\n"
+"PO-Revision-Date: 2017-10-10 14:25+0000\n"
+"Last-Translator: Luca Esposito <bradifigo@gmail.com>\n"
+"Language-Team: Italian "
+"<https://translate.apkpure.com/projects/apkpure/apkpurecom/it/>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.14.1\n"
+
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "GIOCHI"
@@ -20,11 +36,11 @@ msgstr "PRODOTTI"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "NUOVO GIOCO"
+msgstr "NUOVI GIOCHI"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "NUOVA APP"
+msgstr "NUOVE APP"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -998,6 +1014,7 @@ msgctxt "[\"MARKET-INDEX_BANNER_TITLE\"]"
 msgid "APKPure APP"
 msgstr "APP APKPure"
 
+#, fuzzy
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
 msgstr "Installa, gestisci e aggiorna le tue app"
@@ -1589,3 +1606,42 @@ msgstr "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
 msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
 msgstr "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
+
+#, fuzzy
+msgctxt "[\"IGNORE\"]"
+msgid "Ignore"
+msgstr "Ignora"
+
+msgctxt "[\"OK\"]"
+msgid "OK"
+msgstr "OK"
+
+#, fuzzy
+msgctxt "[\"TOP-UPDATED-APPS\"]"
+msgid "Top Updated Apps"
+msgstr "Migliori App Aggiornate"
+
+#, fuzzy
+msgctxt "[\"TOP-UPDATED-GAMES\"]"
+msgid "Top Updated Games"
+msgstr "Migliori Giochi Aggiornati"
+
+#, fuzzy
+msgctxt "[\"SEARCH-TRENDING\"]"
+msgid "trending searches"
+msgstr "Tendenze"
+
+#, fuzzy
+msgctxt "[\"SEARCH-HISTORY\"]"
+msgid "Search history"
+msgstr "Cronologia ricerche"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_TIP\"][\"tw\"]"
+msgid "你是否把當前語言切換成<strong>繁體中文</strong>？"
+msgstr "Vuoi passare alla lingua corrente Cinese Tradizionale?"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
+msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+msgstr "Vuoi cambiare la tua lingua in Spagnolo?"

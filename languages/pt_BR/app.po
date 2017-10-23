@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-07 10:34+0000\n"
-"PO-Revision-Date: 2017-09-07 11:54+0000\n"
+"PO-Revision-Date: 2017-09-30 11:22+0000\n"
 "Last-Translator: Igor Ferrare <ferrare42@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/pt_BR/>\n"
@@ -72,7 +72,7 @@ msgstr "Baixar"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
-msgstr "Selecione a linguagem"
+msgstr "Selecionar idioma"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
@@ -116,7 +116,7 @@ msgstr "Aplicativos XAPK"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
-msgstr "Menu"
+msgstr "Início"
 
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
@@ -132,7 +132,7 @@ msgstr "Downloads"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
-msgstr "O mais novo"
+msgstr "Mais novo"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
@@ -156,7 +156,7 @@ msgstr "Mostre menos"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
-msgstr "Tem {0} produtos"
+msgstr "tem {0} produtos"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
@@ -164,11 +164,11 @@ msgstr "Desenvolvedor"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr "Jogos populares nas últimas {0} Horas"
+msgstr "Jogos populares nas últimas {0} horas"
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr "Aplicativos populares nas últimas {0} Horas"
+msgstr "Aplicativos populares nas últimas {0} horas"
 
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
@@ -192,7 +192,7 @@ msgstr "Fechar"
 
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
-msgstr "Comentaríos"
+msgstr "Comentários"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
@@ -220,11 +220,11 @@ msgstr "Semelhante ou relacionado"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr "Baixe jogos e apps gratuitos de android."
+msgstr "Baixe jogos e aplicativos gratuitos para Android."
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr "Baixe jogos e apps de android."
+msgstr "Baixe jogos e aplicativos para Android."
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
@@ -240,7 +240,7 @@ msgstr "Categorias populares"
 
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr "Baixe APK"
+msgstr "Baixar APK"
 
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
@@ -252,11 +252,13 @@ msgstr "O código de verificação está incorreto!"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr "Insira o código (s) como você vê na imagem, clique em \"Download\"."
+msgstr ""
+"Insira o(s) código(s) como você vê na imagem e em seguida, clique em \""
+"Download\"."
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
-msgstr "Tópico"
+msgstr "Tópicos"
 
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
@@ -316,7 +318,7 @@ msgstr "Data de publicação"
 
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
-msgstr "Obtê-lo em"
+msgstr "Obtê-lo"
 
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
@@ -328,7 +330,7 @@ msgstr "Autor"
 
 msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
-msgstr "Relatório"
+msgstr "Denunciar"
 
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
@@ -416,11 +418,11 @@ msgstr "Removido"
 
 msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
 msgid "{0} GAME"
-msgstr "{0} JOGO"
+msgstr "JOGO {0}"
 
 msgctxt "[\"DETAIL-CATEGORY_APP\"]"
 msgid "{0} APP"
-msgstr "{0} APP"
+msgstr "APLICATIVO {0}"
 
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
@@ -468,7 +470,7 @@ msgstr "Se o download não iniciar,"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES_CLICK\"]"
 msgid "click here"
-msgstr "Clique aqui"
+msgstr "clique aqui"
 
 msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
@@ -488,7 +490,7 @@ msgstr "Requer Android"
 
 msgctxt "[\"COMMENT-REPORT\"]"
 msgid "Report"
-msgstr "Relatório"
+msgstr "Denunciar"
 
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
@@ -512,11 +514,11 @@ msgstr "Nome"
 
 msgctxt "[\"COMMENT-EMAIL\"]"
 msgid "Email"
-msgstr "O email"
+msgstr "E-mail"
 
 msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
 msgid "Newest"
-msgstr "O mais novo"
+msgstr "Mais novo"
 
 msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
 msgid "Newest"
@@ -560,7 +562,7 @@ msgstr "Os comentários não podem ficar em branco."
 
 msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
 msgid "Post As a Guest"
-msgstr "Postar como convidado"
+msgstr "Publicar como convidado"
 
 msgctxt "[\"COMMENT-LOGOUT\"]"
 msgid "Logout"
@@ -580,11 +582,11 @@ msgstr "Voto"
 
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
-msgstr "Erro de login rápido, tente novamente."
+msgstr "Erro de acesso rápido, tente novamente."
 
 msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
 msgid "Incorrect mail or name"
-msgstr "Email ou nome incorreto"
+msgstr "E-mail ou nome incorreto"
 
 msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
@@ -607,7 +609,7 @@ msgstr ""
 msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
 msgid "Your post contains link and is pending approval by an admin"
 msgstr ""
-"Sua postagem contém link e está pendente de aprovação por um administrador"
+"Sua publicação contém link e está pendente de aprovação por um administrador"
 
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Comment forbidden"
@@ -627,7 +629,7 @@ msgstr "URL do vídeo é inválido"
 
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
-msgstr "Sim, excluí-lo!"
+msgstr "Sim, exclua-o!"
 
 msgctxt "[\"COMMENT-DELETED\"]"
 msgid "Deleted!"
@@ -643,7 +645,7 @@ msgstr "Tem certeza?"
 
 msgctxt "[\"COMMENT-LOADING\"]"
 msgid "Comment Loading..."
-msgstr "Comentário Carregando..."
+msgstr "Comentário carregando..."
 
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
@@ -687,7 +689,7 @@ msgstr "Masculino"
 
 msgctxt "[\"USER-USER_LOGIN\"]"
 msgid "User Login"
-msgstr "Login de usuário"
+msgstr "Início de sessão de usuário"
 
 msgctxt "[\"USER-USERNAME\"]"
 msgid "Username"
@@ -703,11 +705,11 @@ msgstr "Registro de novo usuário"
 
 msgctxt "[\"USER-SIGN_IN_BTN\"]"
 msgid "SIGN IN"
-msgstr "ASSINAR EM"
+msgstr "ENTRAR"
 
 msgctxt "[\"USER-SIGN_IN\"]"
 msgid "Sign In"
-msgstr "Assinar em"
+msgstr "Entrar"
 
 msgctxt "[\"USER-SIGN_IN_WITH\"]"
 msgid "Or sign in with"
@@ -723,7 +725,7 @@ msgstr "Inscrever-se"
 
 msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
 msgid "Confirm Password"
-msgstr "Confirme a Senha"
+msgstr "Confirme a senha"
 
 msgctxt "[\"USER-TERMS_SERVICE\"]"
 msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
@@ -735,7 +737,13 @@ msgstr "Download grátis de APK da região"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
-msgstr "- Faça o download do seu aplicativo Android favorito com o APK Downloader (somente aplicativos grátis). <br> - Seu download começará automaticamente após você colar um id de pacote e clicar no botão de download. Altere manualmente a configuração do país e tente novamente. <br> - Quer nos informar mais sobre seus problemas? <a style='color:#FFFF00' href='contact-us.html'>Entre em contato conosco aqui</a>"
+msgstr ""
+"- Baixe seu aplicativo Android favorito com o APK Downloader (somente "
+"aplicativos grátis). <br> - Seu download começará automaticamente após você "
+"colar um id de pacote e clicar no botão de download. Altere manualmente a "
+"configuração do país e tente novamente. <br> - Quer nos informar mais sobre "
+"seus problemas? <a style='color:#FFFF00' href='contact-us.html'>Entre em "
+"contato conosco aqui</a>"
 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
@@ -767,7 +775,7 @@ msgstr "Verificação de assinatura on-line"
 
 msgctxt "[\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
-msgstr "Clique Carregar arquivo APK"
+msgstr "Clique para enviar arquivo APK"
 
 msgctxt "[\"SIGN_VERIFY-MAXIMUM\"]"
 msgid "Maximum file size"
@@ -795,11 +803,11 @@ msgstr "Tamanho do arquivo"
 
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
-msgstr "Busca Avançada"
+msgstr "Busca avançada"
 
 msgctxt "[\"SEARCH-SEARCH_RESULTS\"]"
 msgid "{0} search results found."
-msgstr "{0} Resultados de sua pesquisa ."
+msgstr "{0} resultados encontrados."
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
@@ -1646,7 +1654,7 @@ msgstr "Principais aplicativos atualizados"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
-msgstr "Melhores Jogos Atualizados"
+msgstr "Melhores jogos atualizados"
 
 msgctxt "[\"SEARCH-TRENDING\"]"
 msgid "trending searches"

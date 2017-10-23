@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2017-09-04 12:20+0000\n"
-"Last-Translator: Tugay Acar <tugayls12@gmail.com>\n"
+"PO-Revision-Date: 2017-10-14 19:02+0000\n"
+"Last-Translator: Ahmet Aytanozu <ahmetaytanozu@gmail.com>\n"
 "Language-Team: Turkish "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/tr/>\n"
 "Language: tr\n"
@@ -1643,10 +1643,9 @@ msgctxt "[\"meta\"][\"Details_download\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download"
 msgstr "{app_name} apk, {app_name} apk indir, {app_name} indir"
 
-#, fuzzy
 msgctxt "[\"meta\"][\"Details_download\"][\"description\"]"
 msgid "{app_name} {version_name} APK Download"
-msgstr "{uygulama_adı} {versiyon_adı} APK İndir"
+msgstr "{app_name} {version_name} APK İndir"
 
 msgctxt "[\"meta\"][\"Download\"][\"description\"]"
 msgid "download free apps APK for Android phone and tablet."
@@ -2218,49 +2217,48 @@ msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
 msgid "Vote"
 msgstr "Oy ver"
 
-#, fuzzy
 msgctxt "[\"UPDATE\"]"
 msgid "Update"
 msgstr "Güncelleme"
 
-#, fuzzy
 msgctxt "[\"VERSION-PREVIOUS\"]"
 msgid "Previous versions"
 msgstr "Önceki sürümler"
 
-#, fuzzy
 msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
-msgstr "Versiyonlar"
+msgstr "Sürümler"
 
-#, fuzzy
 msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
 msgid "{0} Previous Versions"
 msgstr "{0} Önceki Sürümler"
 
-#, fuzzy
 msgctxt "[\"tip\"][\"SCREEN_INDEX\"]"
 msgid "{0} screenshot {1}"
 msgstr "{0} Ekran Görüntüsü {1}"
 
 msgctxt "[\"meta\"][\"Details_new\"][\"title\"]"
 msgid "{app_short_name} for Android - APK Download"
-msgstr ""
+msgstr "Android için {app_short_name} - APK İndir"
 
 msgctxt "[\"meta\"][\"Details_new\"][\"keywords\"]"
 msgid "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
 msgstr ""
+"{app_short_name}, Android için {app_short_name}, {app_short_name} android "
+"indir, {app_short_name} apk, {app_short_name} android apk, {app_short_name} "
+"indir"
 
 msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
 msgstr ""
+"Android için {app_short_name} apk {version_name} indir. "
+"{app_short_description}"
 
-#, fuzzy
 msgctxt "[\"meta\"][\"Details_download_new\"][\"keywords\"]"
 msgid "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
 msgstr ""
-"{uygulama_kısa_ad}, android, apk, indir, {uygulama_kısa_ad} android, "
-"{uygulama_kısa_ad} indir"
+"{app_short_name}, android, apk, indir, {app_short_name} android, "
+"{app_short_name} indir"
 
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
@@ -2304,4 +2302,180 @@ msgstr "{app_short_name} v{version_name} android için indir"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"tw\"]"
 msgid "你是否把當前語言切換成<strong>繁體中文</strong>？"
-msgstr "你是否把當前語言切換成<strong>繁體中文</strong>？"
+msgstr ""
+"Dilinizi <strong>Geleneksel Çince</strong> olarak değiştirmek istiyor "
+"musunuz?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
+msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+msgstr ""
+"[\"js\"][\"LANG_TIP\"][\"es\"]Dilinizi<strong>türkçe</strong> olarak "
+"değiştirmek istiyor musunuz?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
+msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
+msgstr "Dilinizi <strong>Rusça</strong> olarak değiştirmek istiyor musunuz?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ar\"]"
+msgid "هل تريد تغيير لغة التفضيل إلى </strong>اللغة العربية<strong>؟"
+msgstr "Dilinizi <strong>Arapça</strong> olarak değiştirmek istiyor musunuz?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"in\"]"
+msgid "क्या आप अपनी वरीयता भाषा को <strong>हिंदी</strong> में बदलना चाहते हैं?"
+msgstr "Dilinizi <strong>Hintçe</strong> olarak değiştirmek istiyor musunuz?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
+msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
+msgstr "Dilinizi <strong>Endonezce</strong> olarak değiştirmek istiyor musunuz?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
+msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+msgstr "Dilinizi <strong>İtalyanca</strong> olarak değiştirmek istiyor musunuz?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"jp\"]"
+msgid "あなたの嗜好言語を<strong>日本語</strong>に変更したいですか？"
+msgstr "Dilinizi <strong>Japonca</strong> olarak değiştirmek istiyor musunuz?"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"tw\"]"
+msgid "忽略"
+msgstr "Reddet"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
+msgid "Ignorar"
+msgstr "Reddet"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
+msgid "игнорировать"
+msgstr "Reddet"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ar\"]"
+msgid "تجاهل"
+msgstr "Reddet"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"in\"]"
+msgid "नज़रअंदाज़ करना"
+msgstr "Reddet"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
+msgid "Mengabaikan"
+msgstr "Reddet"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
+msgid "Ignorare"
+msgstr "Reddet"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
+msgid "Negeren"
+msgstr "Reddet"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"jp\"]"
+msgid "無視する"
+msgstr "Reddet"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"tw\"]"
+msgid "好的"
+msgstr "Kabul et"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
+msgid "DE ACUERDO"
+msgstr "Kabul et"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"ru\"]"
+msgid "ОК"
+msgstr "Kabul et"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"ar\"]"
+msgid "حسنا"
+msgstr "Kabul et"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"in\"]"
+msgid "ठीक"
+msgstr "Kabul et"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"id\"]"
+msgid "baik"
+msgstr "Kabul et"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
+msgid "ok"
+msgstr "Kabul et"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
+msgid "OK"
+msgstr "Kabul et"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"jp\"]"
+msgid "[OK]"
+msgstr "Kabul et"
+
+msgctxt "[\"meta\"][\"Versions\"][\"title\"]"
+msgid "{app_short_name} update version history for Android - APK Download"
+msgstr "{app_short_name} Android için geçmiş sürümü güncelleyin - APK İndir"
+
+msgctxt "[\"meta\"][\"Versions\"][\"keywords\"]"
+msgid "{app_short_name}, download, old, version history, apk, release date, changelog"
+msgstr ""
+"{app_short_name}, indir, eski, geçmiş sürüm, apk, yayınlanma tarihi, "
+"değişiklik günlüğü"
+
+msgctxt "[\"meta\"][\"Versions\"][\"description\"]"
+msgid "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
+msgstr ""
+"{app_short_name} eski Android APK sürümünü indirin veya {app_short_name} son "
+"sürüme güncelleyin. {app_short_name} yayınlanma tarihi, değişiklik günlüğü "
+"ve daha fazlasını inceleyin."
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title\"]"
+msgid "Download {app_short_name} latest {version_name} Android APK"
+msgstr "{app_short_name} en yeni {version_name} Android APK'yi indirin"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title_old\"]"
+msgid "Download {app_short_name} {version_name} Android APK"
+msgstr "{app_short_name} {version_name} Android APK'yi indirin"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"description\"]"
+msgid "{app_short_name} Android latest {version_name} APK Download and Install. {app_short_description}"
+msgstr ""
+"{app_short_name} Android'in en yeni {version_name} APK İndirme ve Yükleme. "
+"{app_short_description}"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"description_old\"]"
+msgid "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
+msgstr ""
+"{app_short_name} Android {version_name} APK İndirme ve Yükleme. "
+"{app_short_description}"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"title\"]"
+msgid "Search - APKPure Android App Store"
+msgstr "Ara - APKPure Android Marketi"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"keywords\"]"
+msgid "Search {add_trending}"
+msgstr "Ara {add_trending}"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"description\"]"
+msgid "Discover Android games free download on APKPure Android App Store."
+msgstr "APKPure Android Marketi'nde Android oyunları ücretsiz olarak keşfedin."
+
+msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
+msgid "{app_type} Like {app_short_name}"
+msgstr "{app_type} Beğen {app_short_name}"
+
+msgctxt "[\"meta\"][\"Similar\"][\"keywords\"]"
+msgid "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_category} {app_type} like {app_short_name}"
+msgstr ""
+"{app_short_name} alternatif, {app_short_name} benzer {app_type}, "
+"{app_category} {app_type}, {app_short_name} gibi"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
+msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+msgstr ""
+"Dilinizi <strong>Hollandaca</strong> olarak değiştirmek istiyor musunuz?"
+
+#, fuzzy
+msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
+msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
+msgstr ""
+"Android, Android tablet ve daha fazlası için {app_short_name}'e popüler "
+"alternatif {app_type}. {app_short_name} gibi popüler 5 {app_type}'yı "
+"indirin, tüm {app_type} APKPure tarafından önerildi."

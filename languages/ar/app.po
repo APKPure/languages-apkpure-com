@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-03 05:57+0000\n"
-"PO-Revision-Date: 2017-09-04 12:05+0000\n"
-"Last-Translator: Mohammad shaban Azzouz <mohammadshabanazzouz@gmail.com>\n"
+"PO-Revision-Date: 2017-09-27 14:56+0000\n"
+"Last-Translator: Abdulrahman Sarmini <abdo.a123.123a.2011@gmail.com>\n"
 "Language-Team: Arabic "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/ar/>\n"
 "Language: ar\n"
@@ -15,14 +15,17 @@ msgstr ""
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 "X-Generator: Weblate 2.14.1\n"
 
+#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "ألعاب"
 
+#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "تطبيقات"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
@@ -39,6 +42,7 @@ msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
 msgstr "لعبة جديدة"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
 msgstr "تطبيق جديد"
@@ -1646,3 +1650,7 @@ msgstr "أعلى الألعاب المحدثة"
 msgctxt "[\"SEARCH-HISTORY\"]"
 msgid "Search history"
 msgstr "ابحث في التاريخ"
+
+msgctxt "[\"SEARCH-TRENDING\"]"
+msgid "trending searches"
+msgstr "أكثر بحثاً"
