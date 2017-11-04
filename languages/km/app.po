@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-28 13:15+0000\n"
-"PO-Revision-Date: 2017-09-08 07:41+0000\n"
+"PO-Revision-Date: 2017-11-04 10:31+0000\n"
 "Last-Translator: ប៉ុកណូ រ៉ូយ៉ាល់ <royalpokno68@gmail.com>\n"
 "Language-Team: Central Khmer "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/km/>\n"
@@ -493,7 +493,7 @@ msgstr "ឈ្មោះកញ្ចប់"
 
 msgctxt "[\"SIGN_VERIFY-SIGNATURE\"]"
 msgid "Signature"
-msgstr ""
+msgstr "ហត្ថលេខា"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SHA1\"]"
 msgid "File SHA1"
@@ -509,15 +509,15 @@ msgstr "ការស្វែងរកកំរិតខ្ពស់"
 
 msgctxt "[\"SEARCH-SEARCH_RESULTS\"]"
 msgid "{0} search results found."
-msgstr ""
+msgstr "{0} លទ្ទផលស្វែងរកដែលរកឃើញ។"
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
-msgstr ""
+msgstr "មិនមានលទ្ធផលរកឃើញមែនទេ? សាកល្បងទៅការស្វែងរកកំរិតខ្ពស់ម្ដងទៀត។"
 
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
-msgstr ""
+msgstr "ជ្រើសរើសតំបន់ដែលអ្នកចង់ស្វែងរកជាមួយ"
 
 msgctxt "[\"SEARCH-ABOUT_RESULTS\"]"
 msgid "About {0} results"
@@ -533,23 +533,23 @@ msgstr "ស្វែងរក..."
 
 msgctxt "[\"SEARCH-PLACEHOLDER3\"]"
 msgid "Name Or Package Name"
-msgstr ""
+msgstr "ឈ្មោះ ឬកញ្ចប់ឈ្មោះ"
 
 msgctxt "[\"SEARCH-TITLE\"]"
 msgid "Enter App Name, Package Name, Package ID"
-msgstr ""
+msgstr "វាយបញ្ចូលឈ្មោះកម្មវិធី, ឈ្មោះកញ្ចប់, ID កញ្ចប់"
 
 msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
-msgstr ""
+msgstr "ស្វែងរក APK"
 
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
-msgstr ""
+msgstr "អុញ៎!,"
 
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
-msgstr ""
+msgstr "កំហុស ៤០៤!"
 
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
@@ -565,59 +565,59 @@ msgstr ""
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
-msgstr ""
+msgstr "មកដល់ឆាប់ៗនេះ"
 
 msgctxt "[\"SEARCHING\"]"
 msgid "Searching..."
-msgstr ""
+msgstr "កំពុងស្វែងរក..."
 
 msgctxt "[\"FOOTER-APK_DOWNLOADER_SEO\"]"
 msgid "APK Downloader"
-msgstr ""
+msgstr "កម្មវិធីទាញយក APK"
 
 msgctxt "[\"FOOTER-APK_DOWNLOADS_SEO\"]"
 msgid "APK Downloads"
-msgstr ""
+msgstr "ទាញយក APK"
 
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
-msgstr ""
+msgstr "កម្មវិធីទាញយក APK (តំបន់ស៊េរី)"
 
 msgctxt "[\"FOOTER-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr ""
+msgstr "តម្លើង APK"
 
 msgctxt "[\"FOOTER-APK_SIGNATURE_VERIFICATION\"]"
 msgid "APK Signature Verification"
-msgstr ""
+msgstr "ការផ្ទៀងផ្ទាត់ហត្ថលេខា APK"
 
 msgctxt "[\"FOOTER-APK_TO_APPX\"]"
 msgid "APK to APPX"
-msgstr ""
+msgstr "APK ទៅ APKX"
 
 msgctxt "[\"FOOTER-PRIVACY_POLICY\"]"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "គោលការណ៍ឯកជនភាព"
 
 msgctxt "[\"FOOTER-DMCA\"]"
 msgid "DMCA Disclaimer"
-msgstr ""
+msgstr "ការបដិសេធ DMCA"
 
 msgctxt "[\"FOOTER-DMCA_TITLE\"]"
 msgid "DMCA Disclaimer"
-msgstr ""
+msgstr "ការបដិសេធ DMCA"
 
 msgctxt "[\"FOOTER-TERM_OF_USE\"]"
 msgid "Term of Use"
-msgstr ""
+msgstr "លក្ខខ័ណ្ឌនៃការប្រើប្រាស់"
 
 msgctxt "[\"FOOTER-MARKET_FOR_ANDROID\"]"
 msgid "APKPure For Android"
-msgstr ""
+msgstr "APKPure សម្រាប់ប្រព័ន្ធ Android"
 
 msgctxt "[\"FOOTER-EXPLORE_XAPK_GAMES\"]"
 msgid "Explore XAPK Games"
-msgstr ""
+msgstr "ការរុករកហ្គេម XAPK"
 
 msgctxt "[\"FOOTER-EXPLORE_XAPK_APPS\"]"
 msgid "Explore XAPK Apps"
@@ -1910,3 +1910,139 @@ msgstr "កំពូលកម្មវិធីដែលបានអាប់ដ
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
 msgstr "កំពូលហ្គេមដែលបានអាប់ដេត"
+
+msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
+msgid "Add A New Discussion"
+msgstr "បន្ថែមការពិភាក្សាថ្មីមួយ"
+
+msgctxt "[\"COMMENT-REPLIES\"]"
+msgid "Replies"
+msgstr "ឆ្លើយតប"
+
+msgctxt "[\"COMMENT-DISCUSSIONS\"]"
+msgid "Discussions"
+msgstr "ការពិភាក្សា"
+
+msgctxt "[\"COMMENT-ALL_DISCUSSIONS\"]"
+msgid "See all discussions"
+msgstr "មើលការពិភាក្សាទាំងអស់"
+
+msgctxt "[\"COMMENT-SEE_ALL_DISCUSSIONS\"]"
+msgid "See all {0} discussions"
+msgstr "មើលការពិភាក្សា{0}ទាំងអស់"
+
+msgctxt "[\"COMMENT-JOIN_IN_GROUP\"]"
+msgid "Join {0} group"
+msgstr "ចូលរួមក្រុម{0}"
+
+msgctxt "[\"COMMENT-JOIN_GROUP\"]"
+msgid "Join Group"
+msgstr "ចូលរួមក្រុម"
+
+msgctxt "[\"COMMENT-GROUP\"]"
+msgid "Group"
+msgstr "ក្រុម"
+
+msgctxt "[\"COMMENT-TITLE_POST\"]"
+msgid "Post"
+msgstr "ប្រកាស"
+
+msgctxt "[\"COMMENT-ADD\"]"
+msgid "Add Comment"
+msgstr "បន្ថែមមតិ"
+
+msgctxt "[\"COMMENT-ALL-REPLY\"]"
+msgid "All {0} replies"
+msgstr "ការឆ្លើយតប{0}ទាំងអស់"
+
+msgctxt "[\"COMMENT-VIEWS\"]"
+msgid "Views"
+msgstr "មើល"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST_LONG\"]"
+msgid "Sort by best"
+msgstr "តម្រៀបដោយកំពូលបំផុត"
+
+msgctxt "[\"USER-PROFILE\"]"
+msgid "Profile"
+msgstr "ទម្រង់ពត៌មាន"
+
+msgctxt "[\"USER-CHANGE_PASSWORD\"]"
+msgid "Change Password"
+msgstr "ផ្លាស់ប្ដូរពាក្យសម្ងាត់"
+
+msgctxt "[\"USER-MESSAGES\"]"
+msgid "Messages"
+msgstr "សារ"
+
+msgctxt "[\"USER-COMMENTS\"]"
+msgid "Comments"
+msgstr "មតិ"
+
+msgctxt "[\"USER-MY_FAVORITE\"]"
+msgid "My Favorite"
+msgstr "ចំនូលចិត្តរបស់ខ្ញុំ"
+
+msgctxt "[\"USER-LIKED_COMMENTS\"]"
+msgid "Liked Comments"
+msgstr "មតិដែលបានចូលចិត្ត"
+
+msgctxt "[\"USER-NEW_PASSWORD\"]"
+msgid "New password"
+msgstr "ពាក្យសម្ងាត់ថ្មី"
+
+msgctxt "[\"USER-CURRENT_PASSWORD\"]"
+msgid "Current password"
+msgstr "ពាក្យសម្ងាត់បច្ចុប្បន្ន"
+
+msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
+msgid "You have entered an invalid birthday."
+msgstr "អ្នកបានវាយបញ្ចូលថ្ងៃកំនើតដែលមិនត្រឹមត្រូវ។"
+
+msgctxt "[\"USER-INCORRECT_INTRO\"]"
+msgid "Information you have entered contains invalid characters."
+msgstr "ពត៌មានដែលអ្នកបានបញ្ចូលមានផ្ទុកតួអក្សរដែលមិនត្រឹមត្រូវ។"
+
+msgctxt "[\"USER-NICKNAME\"]"
+msgid "Nickname"
+msgstr "ឈ្មោះហៅក្រៅ"
+
+msgctxt "[\"USER-BIRTHDAY\"]"
+msgid "Birthday"
+msgstr "ថ្ងៃកំនើត"
+
+msgctxt "[\"USER-GENDER\"]"
+msgid "Gender"
+msgstr "ភេទ"
+
+msgctxt "[\"USER-SAVE\"]"
+msgid "Save"
+msgstr "រក្សាទុក"
+
+msgctxt "[\"USER-SAVING\"]"
+msgid "Saving..."
+msgstr "កំពុងរក្សាទុក..."
+
+msgctxt "[\"USER-MY_PICTURE\"]"
+msgid "My Picture"
+msgstr "រូបភាពរបស់ខ្ញុំ"
+
+msgctxt "[\"USER-CHANGE_PICTURE\"]"
+msgid "Change Picture"
+msgstr "ផ្លាស់ប្ដូររូបភាព"
+
+msgctxt "[\"SEARCH-TRENDING\"]"
+msgid "trending searches"
+msgstr "ការស្វែងរកដែលនិយមច្រើន"
+
+msgctxt "[\"SEARCH-HISTORY\"]"
+msgid "Search history"
+msgstr "ប្រវត្តិស្វែងរក"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2017 APKPure All rights reserved."
+msgstr "រក្សាសិទ្ធិ© ២០១៤-២០១៧ គ្រប់យ៉ាងដោយ APKPure."
+
+msgctxt "[\"COPYRIGHT_MOBILE\"]"
+msgid "APKPure.com © 2014-2017"
+msgstr "APKPure.com © ២០១៤-២០១៧"
