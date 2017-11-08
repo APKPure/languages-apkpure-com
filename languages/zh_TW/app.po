@@ -1,20 +1,3 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-09 13:21+0000\n"
-"PO-Revision-Date: 2017-09-09 13:21+0000\n"
-"Last-Translator: 张瑞 <popgeek6@gmail.com>\n"
-"Language-Team: Chinese (Traditional) "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/zh_Hant/>\n"
-"Language: zh_TW\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.14.1\n"
-
-#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "遊戲"
@@ -71,6 +54,14 @@ msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
 msgstr "下載"
 
+msgctxt "[\"IGNORE\"]"
+msgid "Ignore"
+msgstr "忽略"
+
+msgctxt "[\"OK\"]"
+msgid "OK"
+msgstr "好的"
+
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
 msgstr "選擇語言"
@@ -78,6 +69,14 @@ msgstr "選擇語言"
 msgctxt "[\"FREE\"]"
 msgid "Free"
 msgstr "免費"
+
+msgctxt "[\"TOP-UPDATED-APPS\"]"
+msgid "Top Updated Apps"
+msgstr "Top Updated Apps"
+
+msgctxt "[\"TOP-UPDATED-GAMES\"]"
+msgid "Top Updated Games"
+msgstr "Top Updated Games"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
@@ -270,6 +269,10 @@ msgstr "取消"
 msgctxt "[\"UPDATE\"]"
 msgid "Update"
 msgstr "更新"
+
+msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
+msgid "You Might Also Like"
+msgstr "你可能喜歡的應用程式"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
@@ -487,6 +490,54 @@ msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
 msgstr "Android 最低版本需求"
 
+msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
+msgid "Add A New Discussion"
+msgstr "添加新的討論"
+
+msgctxt "[\"COMMENT-REPLIES\"]"
+msgid "Replies"
+msgstr "回复"
+
+msgctxt "[\"COMMENT-DISCUSSIONS\"]"
+msgid "Discussions"
+msgstr "討論"
+
+msgctxt "[\"COMMENT-ALL_DISCUSSIONS\"]"
+msgid "See all discussions"
+msgstr "查看所有討論"
+
+msgctxt "[\"COMMENT-SEE_ALL_DISCUSSIONS\"]"
+msgid "See all {0} discussions"
+msgstr "查看{0}所有討論"
+
+msgctxt "[\"COMMENT-JOIN_IN_GROUP\"]"
+msgid "Join {0} group"
+msgstr "加入{0}討論組"
+
+msgctxt "[\"COMMENT-JOIN_GROUP\"]"
+msgid "Join Group"
+msgstr "加入小組"
+
+msgctxt "[\"COMMENT-GROUP\"]"
+msgid "Group"
+msgstr "小組"
+
+msgctxt "[\"COMMENT-TITLE_POST\"]"
+msgid "Post"
+msgstr "帖子"
+
+msgctxt "[\"COMMENT-ADD\"]"
+msgid "Add Comment"
+msgstr "添加新評論"
+
+msgctxt "[\"COMMENT-ALL-REPLY\"]"
+msgid "All {0} replies"
+msgstr "全部{0}條回复"
+
+msgctxt "[\"COMMENT-VIEWS\"]"
+msgid "Views"
+msgstr "瀏覽次數"
+
 msgctxt "[\"COMMENT-REPORT\"]"
 msgid "Report"
 msgstr "舉報"
@@ -517,19 +568,23 @@ msgstr "電子郵件"
 
 msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
 msgid "Newest"
-msgstr "最新"
+msgstr "最新评论"
 
 msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
 msgid "Newest"
-msgstr "按最新排序"
+msgstr "最新"
 
 msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
 msgid "Oldest"
-msgstr "按最早排序"
+msgstr "最早"
 
 msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
 msgid "Best"
-msgstr "按推薦排序"
+msgstr "熱門"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST_LONG\"]"
+msgid "Sort by best"
+msgstr "按熱門排序"
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
 msgid "Most Recent"
@@ -643,6 +698,38 @@ msgctxt "[\"COMMENT-LOADING\"]"
 msgid "Comment Loading..."
 msgstr "評論載入中..."
 
+msgctxt "[\"USER-PROFILE\"]"
+msgid "Profile"
+msgstr "個人資料"
+
+msgctxt "[\"USER-CHANGE_PASSWORD\"]"
+msgid "Change Password"
+msgstr "修改密碼"
+
+msgctxt "[\"USER-MESSAGES\"]"
+msgid "Messages"
+msgstr "我的消息"
+
+msgctxt "[\"USER-COMMENTS\"]"
+msgid "Comments"
+msgstr "我的評論"
+
+msgctxt "[\"USER-MY_FAVORITE\"]"
+msgid "My Favorite"
+msgstr "我的收藏"
+
+msgctxt "[\"USER-LIKED_COMMENTS\"]"
+msgid "Liked Comments"
+msgstr "贊過的評論"
+
+msgctxt "[\"USER-NEW_PASSWORD\"]"
+msgid "New password"
+msgstr "新密碼"
+
+msgctxt "[\"USER-CURRENT_PASSWORD\"]"
+msgid "Current password"
+msgstr "當前密碼"
+
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
 msgstr "用戶名已被使用。"
@@ -667,6 +754,14 @@ msgctxt "[\"USER-INCORRECT_ACCOUNT\"]"
 msgid "The username you entered is invalid."
 msgstr "您輸入的用戶名無效。"
 
+msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
+msgid "You have entered an invalid birthday."
+msgstr "輸入日期無效"
+
+msgctxt "[\"USER-INCORRECT_INTRO\"]"
+msgid "Information you have entered contains invalid characters."
+msgstr "輸入信息中包含非法字符"
+
 msgctxt "[\"USER-UNKNOWN_ERROR\"]"
 msgid "unknown mistake."
 msgstr "未知錯誤。"
@@ -690,6 +785,34 @@ msgstr "用戶登錄"
 msgctxt "[\"USER-USERNAME\"]"
 msgid "Username"
 msgstr "用戶名"
+
+msgctxt "[\"USER-NICKNAME\"]"
+msgid "Nickname"
+msgstr "暱稱"
+
+msgctxt "[\"USER-BIRTHDAY\"]"
+msgid "Birthday"
+msgstr "生日"
+
+msgctxt "[\"USER-GENDER\"]"
+msgid "Gender"
+msgstr "性別"
+
+msgctxt "[\"USER-SAVE\"]"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "[\"USER-SAVING\"]"
+msgid "Saving..."
+msgstr "保存中..."
+
+msgctxt "[\"USER-MY_PICTURE\"]"
+msgid "My Picture"
+msgstr "我的照片"
+
+msgctxt "[\"USER-CHANGE_PICTURE\"]"
+msgid "Change Picture"
+msgstr "更換圖片"
 
 msgctxt "[\"USER-PASSWORD\"]"
 msgid "Password"
@@ -831,6 +954,14 @@ msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
 msgstr "搜索"
 
+msgctxt "[\"SEARCH-TRENDING\"]"
+msgid "trending searches"
+msgstr "熱門搜索"
+
+msgctxt "[\"SEARCH-HISTORY\"]"
+msgid "Search history"
+msgstr "搜索歷史"
+
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
 msgstr "哇！"
@@ -844,7 +975,7 @@ msgid "It seems that page you are looking for no longer exists.<br />You can exp
 msgstr "抱歉！看來您正查找的頁面已不存在。 <br/>您可以選擇在下方瀏覽更多 Android 遊戲和應用"
 
 msgctxt "[\"COPYRIGHT\"]"
-msgid "Copyright © 2014-2017 APKPure. All rights reserved."
+msgid "Copyright © 2014-2017 APKPure All rights reserved."
 msgstr "© 2014-2017 APKPure 版權所有"
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
@@ -971,6 +1102,18 @@ msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
 msgstr "舉報濫用"
 
+msgctxt "[\"MARKET-POP_TITLE\"]"
+msgid "APKPure AppStore App"
+msgstr "APKPure應用市場客戶端"
+
+msgctxt "[\"MARKET-POP_CHANGE_TITLE\"]"
+msgid "Change Profile Settings"
+msgstr "修改個人信息"
+
+msgctxt "[\"MARKET-POP_ADD_IMAGE\"]"
+msgid "Add Images To Post"
+msgstr "添加圖片"
+
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
 msgstr "掃一掃安裝<br>APKPure 客戶端"
@@ -1062,6 +1205,10 @@ msgstr "<p class=\"tit\">使用 APKPure 客戶端</p><p class=\"des\">更快、�
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
 msgstr "<p class=\"tit\">使用 APKPure 客戶端</p><p class=\"des\">安裝XAPK、更快、免費、省流量！ </p>"
+
+msgctxt "[\"MARKET-PROMOTION_BANNER_DOWN\"]"
+msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Download / Update this {0}, faster, free and saving data!</p>"
+msgstr "<p class=\"tit\">使用 APKPure 客户端</p><p class=\"des\">下載/更新安裝{0}，更快，免費，省流量!</p>"
 
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
@@ -1219,6 +1366,114 @@ msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
 msgstr "下載APK"
 
+msgctxt "[\"js\"][\"LANG_TIP\"][\"tw\"]"
+msgid "你是否把當前語言切換成<strong>繁體中文</strong>？"
+msgstr "你是否把當前語言切換成<strong>繁體中文</strong>？"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
+msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+msgstr "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
+msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
+msgstr "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ar\"]"
+msgid "هل تريد تغيير لغة التفضيل إلى </strong>اللغة العربية<strong>؟"
+msgstr "هل تريد تغيير لغة التفضيل إلى </strong>اللغة العربية<strong>؟"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"in\"]"
+msgid "क्या आप अपनी वरीयता भाषा को <strong>हिंदी</strong> में बदलना चाहते हैं?"
+msgstr "क्या आप अपनी वरीयता भाषा को <strong>हिंदी</strong> में बदलना चाहते हैं?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
+msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
+msgstr "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
+msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+msgstr "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
+msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"jp\"]"
+msgid "あなたの嗜好言語を<strong>日本語</strong>に変更したいですか？"
+msgstr "あなたの嗜好言語を<strong>日本語</strong>に変更したいですか？"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"tw\"]"
+msgid "忽略"
+msgstr "忽略"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
+msgid "Ignorar"
+msgstr "Ignorar"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
+msgid "игнорировать"
+msgstr "игнорировать"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ar\"]"
+msgid "تجاهل"
+msgstr "تجاهل"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"in\"]"
+msgid "नज़रअंदाज़ करना"
+msgstr "नज़रअंदाज़ करना"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
+msgid "Mengabaikan"
+msgstr "Mengabaikan"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
+msgid "Ignorare"
+msgstr "Ignorare"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
+msgid "Negeren"
+msgstr "Negeren"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"jp\"]"
+msgid "無視する"
+msgstr "無視する"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"tw\"]"
+msgid "好的"
+msgstr "好的"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
+msgid "DE ACUERDO"
+msgstr "DE ACUERDO"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"ru\"]"
+msgid "ОК"
+msgstr "ОК"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"ar\"]"
+msgid "حسنا"
+msgstr "حسنا"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"in\"]"
+msgid "ठीक"
+msgstr "ठीक"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"id\"]"
+msgid "baik"
+msgstr "baik"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
+msgid "ok"
+msgstr "ok"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"jp\"]"
+msgid "[OK]"
+msgstr "[OK]"
+
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
 msgstr "【官方】{0}是未修改的可信版本。"
@@ -1318,6 +1573,10 @@ msgstr "您輸入的用戶名無效。"
 msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
 msgid "The password you entered is invalid."
 msgstr "您輸入的密碼無效。"
+
+msgctxt "[\"js\"][\"USER-SAVED_SUCCESS\"]"
+msgid "Saved Successfully"
+msgstr "保存成功"
 
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
@@ -1511,6 +1770,18 @@ msgctxt "[\"meta\"][\"Search\"][\"description\"]"
 msgid "{0}"
 msgstr "{0}"
 
+msgctxt "[\"meta\"][\"Search_hot\"][\"title\"]"
+msgid "Search - APKPure Android App Store"
+msgstr "搜索 - APKPure安卓應用商店"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"keywords\"]"
+msgid "Search {add_trending}"
+msgstr "搜索 {add_trending}"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"description\"]"
+msgid "Discover Android games free download on APKPure Android App Store."
+msgstr "使用APKPure應用市場發現下載免費好遊戲。"
+
 msgctxt "[\"meta\"][\"New\"][\"title\"]"
 msgid "Download the latest {0} APK | APKPure.com"
 msgstr "最近更新上線的安卓{0}APK免費下載 | APKPure應用市場"
@@ -1606,3 +1877,87 @@ msgstr "{app_short_name}類似遊戲, {app_short_name}同類{app_type}, {app_sho
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
 msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
 msgstr "類似{app_short_name}的手游，{app_short_name}同類游戲,安卓平板遊戲下載。 APKPure力荐{similar_count}款類似{app_short_name}的經典{app_category}類{app_type}。"
+
+msgctxt "[\"meta\"][\"Login\"][\"title\"]"
+msgid "Sign in account for APKPure Android App Store"
+msgstr "APKPure用戶登錄"
+
+msgctxt "[\"meta\"][\"Login\"][\"keywords\"]"
+msgid "login, new member, account, registration"
+msgstr "登錄，新用戶，賬戶"
+
+msgctxt "[\"meta\"][\"Login\"][\"description\"]"
+msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
+msgstr "在討論組發帖或評星前，請先登錄你的APKPure賬戶。今天就加入APKPure吧！"
+
+msgctxt "[\"meta\"][\"Password\"][\"title\"]"
+msgid "Change Password"
+msgstr "修改密碼"
+
+msgctxt "[\"meta\"][\"Password\"][\"description\"]"
+msgid "Change or reset my password."
+msgstr "修改、重置我的密碼。"
+
+msgctxt "[\"meta\"][\"User\"][\"title\"]"
+msgid "{user_name}: Profile and Activity - APKPure AppStore"
+msgstr "{user_name}: 個人主頁和動態"
+
+msgctxt "[\"meta\"][\"User\"][\"description\"]"
+msgid "My APKPure AppStore profile and activity page for {user_name}. Join APKPure AppStore to connect with {user_name}."
+msgstr "{user_name}在APKPure的個人主頁，加入APKPure與{user_name}一起互動。"
+
+msgctxt "[\"meta\"][\"Profile\"][\"title\"]"
+msgid "{user_name}'s profile on APKPure App Store"
+msgstr "{user_name}的APKPure"
+
+msgctxt "[\"meta\"][\"Profile\"][\"description\"]"
+msgid "The APKPure member profile for {user_name}."
+msgstr "{user_name}的APKPure個人中心"
+
+msgctxt "[\"meta\"][\"Register\"][\"title\"]"
+msgid "Register account for APKPure Android App Store"
+msgstr "APKPure用戶註冊"
+
+msgctxt "[\"meta\"][\"Register\"][\"keywords\"]"
+msgid "register, new member, account, registration"
+msgstr "註冊，新用戶，賬戶"
+
+msgctxt "[\"meta\"][\"Register\"][\"description\"]"
+msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
+msgstr "在討論組發帖或評星前，請先註冊你的APKPure賬戶。今天就加入APKPure吧！"
+
+msgctxt "[\"meta\"][\"Group\"][\"title\"]"
+msgid "{app_name} {app_type} Discussion Group | APKPure Groups"
+msgstr "{app_name}{app_type}討論組 | APKPure 討論組"
+
+msgctxt "[\"meta\"][\"Group\"][\"keywords\"]"
+msgid "{app_name} group, {app_short_name} community, {app_name} forum, about {app_short_name}, {app_type} discussions"
+msgstr "{app_name}討論組，{app_short_name}社區，{app_name}論壇，關於{app_short_name}，{app_type}討論"
+
+msgctxt "[\"meta\"][\"Group\"][\"description_game\"]"
+msgid "Online discussions to share {app_name} tips, tricks and cheats. {app_short_description}"
+msgstr "{app_name}遊戲攻略,操作技巧,通關秘籍盡在{app_name}討論組。 {app_short_description}"
+
+msgctxt "[\"meta\"][\"Group\"][\"description_app\"]"
+msgid "{app_name} group gathers most Android expert users, who like to share experience on how to use {app_short_name} and give {app_short_name} useful app reviews."
+msgstr "{app_name}討論組內匯集了眾多安卓專家級用戶，他們願意分享自己在使用{app_short_name}的經驗並給出實用的應用點評。"
+
+msgctxt "[\"meta\"][\"Invit\"][\"title\"]"
+msgid "{user_name} add a post under {app_name} Discussion Group | APKPure Group"
+msgstr "{user_name}在{app_name}討論組發布了一個帖子 | APKPure討論組"
+
+msgctxt "[\"meta\"][\"Invit\"][\"description\"]"
+msgid "View all {user_name}'s comments and posts on APKPure {app_type} discussion group. Join now to connect with {user_name}."
+msgstr "在{app_name}{app_type}討論組中查看{user_name}所有的評論和帖子內容。現在加入APKPure與{user_name}一起互動吧。"
+
+msgctxt "[\"meta\"][\"Invit\"][\"title_title\"]"
+msgid "{title} {app_type} Discussions | {app_name} Group"
+msgstr "{title}-{app_type}討論 | {app_name}討論組"
+
+msgctxt "[\"meta\"][\"Invit\"][\"description_title\"]"
+msgid "\"{post_details}\" sent by {user_name} in {app_name} {app_type} Discussions."
+msgstr "{user_name}發布了{app_name}{app_type}討論：，\"{post_details}\""
+
+msgctxt "[\"meta\"][\"Invit\"][\"keywords\"]"
+msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"
+msgstr "討論組, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name}社區"
