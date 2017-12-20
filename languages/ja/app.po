@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:53+0000\n"
-"PO-Revision-Date: 2017-09-11 06:27+0000\n"
-"Last-Translator: leao mett <leaomett@gmail.com>\n"
+"PO-Revision-Date: 2017-11-06 10:07+0000\n"
+"Last-Translator: tatsu u <utatsu716@gmail.com>\n"
 "Language-Team: Japanese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/ja/>\n"
 "Language: ja\n"
@@ -30,6 +30,7 @@ msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "最新"
 
+#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "製品"
@@ -1378,6 +1379,7 @@ msgctxt "[\"category\"][\"APP_WIDGETS\"]"
 msgid "Widgets"
 msgstr "ウィジェット"
 
+#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "ゲーム"
@@ -1931,6 +1933,7 @@ msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
 msgstr "乱用に関する通告"
 
+#, fuzzy
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
 msgstr "削除！"
@@ -2225,7 +2228,7 @@ msgstr "Ignorar"
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"keywords\"]"
 msgid "Search {add_trending}"
-msgstr ""
+msgstr "検索{add_trending}"
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"description\"]"
 msgid "Discover Android games free download on APKPure Android App Store."
@@ -2298,3 +2301,249 @@ msgstr "Ignorare"
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
 msgid "Negeren"
 msgstr "Negeren"
+
+msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
+msgid "Add A New Discussion"
+msgstr "新しいディスカッションを追加"
+
+msgctxt "[\"COMMENT-REPLIES\"]"
+msgid "Replies"
+msgstr "返信"
+
+msgctxt "[\"COMMENT-DISCUSSIONS\"]"
+msgid "Discussions"
+msgstr "ディスカッション"
+
+msgctxt "[\"COMMENT-ALL_DISCUSSIONS\"]"
+msgid "See all discussions"
+msgstr "すべてのディスカッションを見る"
+
+msgctxt "[\"COMMENT-SEE_ALL_DISCUSSIONS\"]"
+msgid "See all {0} discussions"
+msgstr "すべての{0}ディスカッションを見る"
+
+msgctxt "[\"COMMENT-JOIN_IN_GROUP\"]"
+msgid "Join {0} group"
+msgstr "{0}グループに参加する"
+
+msgctxt "[\"COMMENT-JOIN_GROUP\"]"
+msgid "Join Group"
+msgstr "グループに参加"
+
+msgctxt "[\"COMMENT-GROUP\"]"
+msgid "Group"
+msgstr "グループ"
+
+msgctxt "[\"COMMENT-TITLE_POST\"]"
+msgid "Post"
+msgstr "ポスト"
+
+msgctxt "[\"COMMENT-ADD\"]"
+msgid "Add Comment"
+msgstr "コメントを追加"
+
+msgctxt "[\"COMMENT-ALL-REPLY\"]"
+msgid "All {0} replies"
+msgstr "すべての{0}の返信"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST_LONG\"]"
+msgid "Sort by best"
+msgstr "最高の並べ替え"
+
+msgctxt "[\"USER-PROFILE\"]"
+msgid "Profile"
+msgstr "プロフィール"
+
+msgctxt "[\"USER-CHANGE_PASSWORD\"]"
+msgid "Change Password"
+msgstr "パスワードを変更する"
+
+msgctxt "[\"USER-MESSAGES\"]"
+msgid "Messages"
+msgstr "メッセージ"
+
+msgctxt "[\"USER-COMMENTS\"]"
+msgid "Comments"
+msgstr "コメント"
+
+msgctxt "[\"USER-MY_FAVORITE\"]"
+msgid "My Favorite"
+msgstr "お気に入り"
+
+msgctxt "[\"USER-LIKED_COMMENTS\"]"
+msgid "Liked Comments"
+msgstr "好きなコメント"
+
+msgctxt "[\"USER-NEW_PASSWORD\"]"
+msgid "New password"
+msgstr "新しいパスワード"
+
+msgctxt "[\"USER-CURRENT_PASSWORD\"]"
+msgid "Current password"
+msgstr "現在のパスワード"
+
+msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
+msgid "You have entered an invalid birthday."
+msgstr "あなたは無効な誕生日を入力しました。"
+
+msgctxt "[\"USER-INCORRECT_INTRO\"]"
+msgid "Information you have entered contains invalid characters."
+msgstr "入力した情報に無効な文字が含まれています。"
+
+msgctxt "[\"USER-NICKNAME\"]"
+msgid "Nickname"
+msgstr "ニックネーム"
+
+msgctxt "[\"USER-BIRTHDAY\"]"
+msgid "Birthday"
+msgstr "お誕生日"
+
+msgctxt "[\"USER-GENDER\"]"
+msgid "Gender"
+msgstr "性別"
+
+msgctxt "[\"USER-SAVE\"]"
+msgid "Save"
+msgstr "保存する"
+
+msgctxt "[\"USER-SAVING\"]"
+msgid "Saving..."
+msgstr "保存中..."
+
+msgctxt "[\"USER-MY_PICTURE\"]"
+msgid "My Picture"
+msgstr "私の写真"
+
+msgctxt "[\"USER-CHANGE_PICTURE\"]"
+msgid "Change Picture"
+msgstr "画像を変更する"
+
+msgctxt "[\"MARKET-POP_TITLE\"]"
+msgid "APKPure AppStore App"
+msgstr "APKPure AppStore アプリ"
+
+msgctxt "[\"MARKET-POP_CHANGE_TITLE\"]"
+msgid "Change Profile Settings"
+msgstr "プロファイル設定を変更する"
+
+msgctxt "[\"COMMENT-VIEWS\"]"
+msgid "Views"
+msgstr "Views"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2017 APKPure All rights reserved."
+msgstr "著作権 © 2014-2017 APKPureが全著作権所有。"
+
+msgctxt "[\"MARKET-POP_ADD_IMAGE\"]"
+msgid "Add Images To Post"
+msgstr "画像を投稿に追加"
+
+msgctxt "[\"MARKET-PROMOTION_BANNER_DOWN\"]"
+msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Download / Update this {0}, faster, free and saving data!</p>"
+msgstr ""
+"<p class=\"tit\">APKPure Appを使用する</p><p class=\"des\""
+">この{0}をダウンロード・更新し、より速く、無料でデータを保存します！</p>"
+
+msgctxt "[\"js\"][\"USER-SAVED_SUCCESS\"]"
+msgid "Saved Successfully"
+msgstr "成功に保存されました"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"title\"]"
+msgid "Search - APKPure Android App Store"
+msgstr "検索 - APKPure Android App Store"
+
+msgctxt "[\"meta\"][\"Login\"][\"title\"]"
+msgid "Sign in account for APKPure Android App Store"
+msgstr "APKPure Android App Storeのアカウントでログイン"
+
+msgctxt "[\"meta\"][\"Login\"][\"keywords\"]"
+msgid "login, new member, account, registration"
+msgstr "ログイン、新規メンバー、アカウント、登録"
+
+msgctxt "[\"meta\"][\"Login\"][\"description\"]"
+msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
+msgstr ""
+"コミュニティグループに参加したり、APKPure App "
+"Storeに投票するには、登録する必要があります。今すぐAPKPureアカウントを登録してください！"
+
+msgctxt "[\"meta\"][\"Password\"][\"title\"]"
+msgid "Change Password"
+msgstr "パスワードの変更"
+
+msgctxt "[\"meta\"][\"Password\"][\"description\"]"
+msgid "Change or reset my password."
+msgstr "パスワードを変更またはリセットする。"
+
+msgctxt "[\"meta\"][\"User\"][\"title\"]"
+msgid "{user_name}: Profile and Activity - APKPure AppStore"
+msgstr "{user_name}:プロファイルとアクティビティ - APKPure AppStore"
+
+msgctxt "[\"meta\"][\"Profile\"][\"title\"]"
+msgid "{user_name}'s profile on APKPure App Store"
+msgstr "APKPure App Store上の{user_name}さんのプロフィール"
+
+msgctxt "[\"meta\"][\"Profile\"][\"description\"]"
+msgid "The APKPure member profile for {user_name}."
+msgstr "{user_name}のAPKPureメンバープロファイル。"
+
+msgctxt "[\"meta\"][\"Register\"][\"title\"]"
+msgid "Register account for APKPure Android App Store"
+msgstr "APKPure Android App Storeのアカウントを登録する"
+
+msgctxt "[\"meta\"][\"Register\"][\"keywords\"]"
+msgid "register, new member, account, registration"
+msgstr "登録、新規メンバー、アカウント、登録"
+
+msgctxt "[\"meta\"][\"User\"][\"description\"]"
+msgid "My APKPure AppStore profile and activity page for {user_name}. Join APKPure AppStore to connect with {user_name}."
+msgstr "{user_name}の私のAPKPure AppStoreのプロフィールとアクティビティのページ。"
+
+msgctxt "[\"meta\"][\"Register\"][\"description\"]"
+msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
+msgstr ""
+"コミュニティグループに参加したり、APKPure App Storeに投票するには、登録する必要があります。 "
+"今すぐAPKPureアカウントを登録してください！"
+
+msgctxt "[\"meta\"][\"Group\"][\"title\"]"
+msgid "{app_name} {app_type} Discussion Group | APKPure Groups"
+msgstr "{app_name} {app_type} ディスカッショングループ|APKPureグループ"
+
+msgctxt "[\"meta\"][\"Group\"][\"keywords\"]"
+msgid "{app_name} group, {app_short_name} community, {app_name} forum, about {app_short_name}, {app_type} discussions"
+msgstr ""
+"{app_name} グループ、{app_short_name} コミュニティ、{app_name} フォーラム、 "
+"{app_short_name}について、{app_type} ディスカッション"
+
+msgctxt "[\"meta\"][\"Group\"][\"description_game\"]"
+msgid "Online discussions to share {app_name} tips, tricks and cheats. {app_short_description}"
+msgstr "{app_name}のヒント、トリック、チートを共有するオンラインディスカッション。 {app_short_description}"
+
+msgctxt "[\"meta\"][\"Group\"][\"description_app\"]"
+msgid "{app_name} group gathers most Android expert users, who like to share experience on how to use {app_short_name} and give {app_short_name} useful app reviews."
+msgstr ""
+"{app_name}グループは、{app_short_name}の使い方の経験を共有し、{app_short_name}の便利なアプリレビューを書き込むA"
+"ndroidエキスパートユーザーを集めています。"
+
+msgctxt "[\"meta\"][\"Invit\"][\"title\"]"
+msgid "{user_name} add a post under {app_name} Discussion Group | APKPure Group"
+msgstr "{user_name}が {app_name} Discussion Group | APKPure Groupの下で投稿を追加"
+
+msgctxt "[\"meta\"][\"Invit\"][\"description\"]"
+msgid "View all {user_name}'s comments and posts on APKPure {app_type} discussion group. Join now to connect with {user_name}."
+msgstr ""
+"APKPure {app_type}ディスカッショングループのすべての{user_name}のコメントと投稿を表示します。 "
+"今すぐ参加して{user_name}と連絡します。"
+
+msgctxt "[\"meta\"][\"Invit\"][\"title_title\"]"
+msgid "{title} {app_type} Discussions | {app_name} Group"
+msgstr "{title} {app_type} ディスカッション | {app_name} グループ"
+
+msgctxt "[\"meta\"][\"Invit\"][\"description_title\"]"
+msgid "\"{post_details}\" sent by {user_name} in {app_name} {app_type} Discussions."
+msgstr "\"{post_details}\"は{app_name} {app_type}ディスカッションで{user_name}によって送信された。"
+
+msgctxt "[\"meta\"][\"Invit\"][\"keywords\"]"
+msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"
+msgstr ""
+"グループ、 {app_name}、 {app_category}、 {app_type}、 {app_developer}、 "
+"{app_short_name} コミュニティ"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:52+0000\n"
-"PO-Revision-Date: 2017-09-05 12:29+0000\n"
+"PO-Revision-Date: 2017-11-03 11:46+0000\n"
 "Last-Translator: Zoltán Magyar <zityisoft@gmail.com>\n"
 "Language-Team: Hungarian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/hu/>\n"
@@ -2422,3 +2422,63 @@ msgstr "Legjobb frissített alkalmazások"
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
 msgstr "Legjobb frissített játékok"
+
+msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
+msgid "Add A New Discussion"
+msgstr "Új hozzászólás hozzáadása"
+
+msgctxt "[\"COMMENT-REPLIES\"]"
+msgid "Replies"
+msgstr "Válaszok"
+
+msgctxt "[\"COMMENT-JOIN_GROUP\"]"
+msgid "Join Group"
+msgstr "Csatlakozás a csoporthoz"
+
+msgctxt "[\"COMMENT-JOIN_IN_GROUP\"]"
+msgid "Join {0} group"
+msgstr "Csatlakozás a(z) {0} csoporthoz"
+
+msgctxt "[\"COMMENT-GROUP\"]"
+msgid "Group"
+msgstr "Csoport"
+
+msgctxt "[\"COMMENT-ADD\"]"
+msgid "Add Comment"
+msgstr "Megjegyzés hozzáadása"
+
+msgctxt "[\"USER-PROFILE\"]"
+msgid "Profile"
+msgstr "Profil"
+
+msgctxt "[\"USER-CHANGE_PASSWORD\"]"
+msgid "Change Password"
+msgstr "Jelszó módosítása"
+
+msgctxt "[\"USER-MESSAGES\"]"
+msgid "Messages"
+msgstr "Üzenetek"
+
+msgctxt "[\"USER-COMMENTS\"]"
+msgid "Comments"
+msgstr "Hozzászólások"
+
+msgctxt "[\"USER-MY_FAVORITE\"]"
+msgid "My Favorite"
+msgstr "Kedvencem"
+
+msgctxt "[\"USER-LIKED_COMMENTS\"]"
+msgid "Liked Comments"
+msgstr "Lájkolt hozzászólások"
+
+msgctxt "[\"USER-NEW_PASSWORD\"]"
+msgid "New password"
+msgstr "Új jelszó"
+
+msgctxt "[\"USER-CURRENT_PASSWORD\"]"
+msgid "Current password"
+msgstr "Jelenlegi jelszó"
+
+msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
+msgid "You have entered an invalid birthday."
+msgstr "Érvénytelen születésnapot adott meg."

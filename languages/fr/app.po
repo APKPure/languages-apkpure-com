@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-05 10:22+0000\n"
-"PO-Revision-Date: 2017-09-06 17:34+0000\n"
-"Last-Translator: anonymous <>\n"
+"PO-Revision-Date: 2017-11-06 13:17+0000\n"
+"Last-Translator: Apks4 Life <kardu80@gmail.com>\n"
 "Language-Team: French "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/fr/>\n"
 "Language: fr\n"
@@ -14,6 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 2.14.1\n"
 
+#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "Jeux"
@@ -1997,3 +1998,125 @@ msgstr "{0} Versions précédentes"
 msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
 msgid "Passwords do not match"
 msgstr "Les mots de passe ne correspondent pas"
+
+msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
+msgid "Add A New Discussion"
+msgstr "Ajouter une nouvelle discussion"
+
+msgctxt "[\"COMMENT-REPLIES\"]"
+msgid "Replies"
+msgstr "Réponses"
+
+msgctxt "[\"COMMENT-DISCUSSIONS\"]"
+msgid "Discussions"
+msgstr "Discussions"
+
+msgctxt "[\"COMMENT-ALL_DISCUSSIONS\"]"
+msgid "See all discussions"
+msgstr "Voir toutes les discussions"
+
+msgctxt "[\"COMMENT-JOIN_GROUP\"]"
+msgid "Join Group"
+msgstr "Rejoindre le groupe"
+
+msgctxt "[\"COMMENT-GROUP\"]"
+msgid "Group"
+msgstr "Groupe"
+
+msgctxt "[\"COMMENT-TITLE_POST\"]"
+msgid "Post"
+msgstr "Poster"
+
+msgctxt "[\"COMMENT-ADD\"]"
+msgid "Add Comment"
+msgstr "Ajouter un commentaire"
+
+msgctxt "[\"COMMENT-VIEWS\"]"
+msgid "Views"
+msgstr "Vues"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST_LONG\"]"
+msgid "Sort by best"
+msgstr "Trier par les meilleurs"
+
+msgctxt "[\"USER-CHANGE_PASSWORD\"]"
+msgid "Change Password"
+msgstr "Changer le mot de passe"
+
+msgctxt "[\"USER-MESSAGES\"]"
+msgid "Messages"
+msgstr "Messages"
+
+msgctxt "[\"USER-COMMENTS\"]"
+msgid "Comments"
+msgstr "Commentaires"
+
+msgctxt "[\"USER-MY_FAVORITE\"]"
+msgid "My Favorite"
+msgstr "Mes favoris"
+
+msgctxt "[\"USER-LIKED_COMMENTS\"]"
+msgid "Liked Comments"
+msgstr "Commentaires aimé"
+
+msgctxt "[\"USER-NEW_PASSWORD\"]"
+msgid "New password"
+msgstr "Nouveau mot de passe"
+
+msgctxt "[\"USER-CURRENT_PASSWORD\"]"
+msgid "Current password"
+msgstr "Mot de passe actuel"
+
+msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
+msgid "You have entered an invalid birthday."
+msgstr "Vous avez entré une date invalide."
+
+msgctxt "[\"USER-INCORRECT_INTRO\"]"
+msgid "Information you have entered contains invalid characters."
+msgstr ""
+"Les informations que vous avez saisis contiennent des caractères invalide."
+
+msgctxt "[\"USER-NICKNAME\"]"
+msgid "Nickname"
+msgstr "Surnom"
+
+msgctxt "[\"USER-BIRTHDAY\"]"
+msgid "Birthday"
+msgstr "Date de naissance"
+
+msgctxt "[\"USER-GENDER\"]"
+msgid "Gender"
+msgstr "Genre"
+
+msgctxt "[\"USER-SAVE\"]"
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgctxt "[\"USER-SAVING\"]"
+msgid "Saving..."
+msgstr "Sauvegarde en cours..."
+
+msgctxt "[\"USER-MY_PICTURE\"]"
+msgid "My Picture"
+msgstr "Ma photo"
+
+msgctxt "[\"USER-CHANGE_PICTURE\"]"
+msgid "Change Picture"
+msgstr "Changer ma photo"
+
+#, fuzzy
+msgctxt "[\"SEARCH-TRENDING\"]"
+msgid "trending searches"
+msgstr "Recherche tendances"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2017 APKPure All rights reserved."
+msgstr "Copyright © 2014-2017 APKPure Tous droits réservés."
+
+msgctxt "[\"MARKET-POP_CHANGE_TITLE\"]"
+msgid "Change Profile Settings"
+msgstr "Changer les paramètres du profil"
+
+msgctxt "[\"MARKET-POP_ADD_IMAGE\"]"
+msgid "Add Images To Post"
+msgstr "Ajouter une image au sujet"
