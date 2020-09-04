@@ -1,19 +1,3 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-14 16:00+0000\n"
-"PO-Revision-Date: 2019-03-19 02:15+0000\n"
-"Last-Translator: wenyue zhu <zwy2017724@gmail.com>\n"
-"Language-Team: Chinese (Traditional) <https://translate.apkpure.com/projects/"
-"apkpure/apkpurecom/zh_Hant/>\n"
-"Language: zh_TW\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.2.2\n"
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "遊戲"
@@ -22,27 +6,21 @@ msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "應用"
 
-msgctxt "[\"NAV-XAPK\"]"
-msgid "XAPK"
-msgstr "XAPK"
-
-#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "最新"
 
-#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "產品"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "新上架遊戲"
+msgstr "最近更新遊戲"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "新上架應用"
+msgstr "最近更新應用"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -89,20 +67,12 @@ msgid "Buy"
 msgstr "購買"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
-msgid "Select Language"
+msgid "Choose Language"
 msgstr "選擇語言"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
 msgstr "免費"
-
-msgctxt "[\"TOP-UPDATED-APPS\"]"
-msgid "Top Updated Apps"
-msgstr "Top Updated Apps"
-
-msgctxt "[\"TOP-UPDATED-GAMES\"]"
-msgid "Top Updated Games"
-msgstr "Top Updated Games"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
@@ -127,10 +97,6 @@ msgstr "應用"
 msgctxt "[\"MORE\"]"
 msgid "More"
 msgstr "更多"
-
-msgctxt "[\"XAPK\"]"
-msgid "XAPK"
-msgstr "XAPK"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
@@ -172,9 +138,13 @@ msgctxt "[\"RATING\"]"
 msgid "Rating"
 msgstr "評級"
 
+msgctxt "[\"POPULAR\"]"
+msgid "Popular"
+msgstr "人氣"
+
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
-msgstr "類別"
+msgstr "分類"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
@@ -182,7 +152,7 @@ msgstr "{app_category}{app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr "ㄊ更多"
+msgstr "更多"
 
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
@@ -195,6 +165,10 @@ msgstr "找到 {0} 個"
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
 msgstr "開發者"
+
+msgctxt "[\"UPLOADER\"]"
+msgid "Uploaded by"
+msgstr "上傳者"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
@@ -231,6 +205,10 @@ msgstr "用戶評論"
 msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
 msgstr "没有找到"
+
+msgctxt "[\"REASON\"]"
+msgid "Reason"
+msgstr "理由"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
@@ -296,6 +274,22 @@ msgctxt "[\"TOPICS\"]"
 msgid "Topics"
 msgstr "專題"
 
+msgctxt "[\"MORE-TOPICS\"]"
+msgid "More Topics"
+msgstr "更多專題"
+
+msgctxt "[\"TAG\"]"
+msgid "Tag {0}"
+msgstr "{0}標籤"
+
+msgctxt "[\"BROWSING_TAG\"]"
+msgid "Browsing {0}"
+msgstr "正在瀏覽{0}類型的遊戲"
+
+msgctxt "[\"ADDITIONAL_INFORMATION\"]"
+msgid "Additional Information"
+msgstr "其他資訊"
+
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
 msgstr "類似於 {0}"
@@ -308,6 +302,30 @@ msgctxt "[\"UPDATE\"]"
 msgid "Update"
 msgstr "更新"
 
+msgctxt "[\"SUBMIT\"]"
+msgid "Submit"
+msgstr "提交"
+
+msgctxt "[\"SUBMITTING\"]"
+msgid "Submitting..."
+msgstr "提交中"
+
+msgctxt "[\"DEV-ICON_TYPE_AND_SIZE_MSG\"]"
+msgid "The icon should be<br>- PNG <br>- limited to 1024KB"
+msgstr "圖標應為<br>- PNG 文件<br>- 最大文件大小: 1024KB"
+
+msgctxt "[\"DEV-IMG_ERROR\"]"
+msgid "The screenshots should be<br>- at least two<br>- JPEG or PNG<br>- Minimum dimension: 320px<br>- Maximum dimension: 3840px<br>- The maximum dimension can't be more than twice as long as the minimum dimension."
+msgstr "截圖要求<br>- 至少兩個<br>- JPEG或PNG文件G<br>- 最小維度 320px<br>- 最大維度 3840px<br>- 最大維度不能長於最小維度的兩倍"
+
+msgctxt "[\"DEV-APK_DESCRIPTION_ERROR_MSG\"]"
+msgid "The description is limited to 4000 characters."
+msgstr "描述最多 4000 個字符。"
+
+msgctxt "[\"DEV-APK_DESCRIPTION_SHORT_ERROR_MSG\"]"
+msgid "The short description is limited to 80 characters."
+msgstr "短描述最多 80 個字符。"
+
 msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
 msgid "Invalid package name or email"
 msgstr "不正確的包名或郵箱"
@@ -319,6 +337,26 @@ msgstr "發送郵件失敗"
 msgctxt "[\"DEV-PKG_EXISTS\"]"
 msgid "Application has been claimed"
 msgstr "應用已被認領"
+
+msgctxt "[\"DEV-GP_EXISTS\"]"
+msgid "This application has existed on google play."
+msgstr "該應用已被GP收錄"
+
+msgctxt "[\"DEV-INCORRECT_PKG\"]"
+msgid "Invalid Package Name"
+msgstr "不正確的包名"
+
+msgctxt "[\"DEV-NO_OFFICIAL_VERSION\"]"
+msgid "There is no Google Play official version on APKPure. Please claim this app later."
+msgstr "APKPure沒有收錄Google Play官方版本，請稍後認領此應用。"
+
+msgctxt "[\"UPLOAD-FAILED\"]"
+msgid "File upload failed. (Error code: 10001)"
+msgstr "文件上傳失敗。（錯誤代碼：10001）"
+
+msgctxt "[\"UPLOAD-PARSING_FAILED\"]"
+msgid "File parsing failed. (Error code: 10002)"
+msgstr "文件解析失敗。（錯誤代碼：10002）"
 
 msgctxt "[\"DETAIL\"]"
 msgid "Detail"
@@ -508,14 +546,6 @@ msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
 msgstr "其他下載地址:"
 
-msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
-msgid "Download on Google Play"
-msgstr "Download on Google Play"
-
-msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
-msgid "{app_name} All rights reserved ©2018 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
-msgstr "{app_name} All rights reserved ©2018 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
-
 msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
 msgid "Download"
 msgstr "下載"
@@ -523,6 +553,14 @@ msgstr "下載"
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
 msgid "Downloading"
 msgstr "正在下載"
+
+msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING\"]"
+msgid "Fast Downloading"
+msgstr "高速下載"
+
+msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING_DES\"]"
+msgid "How \"Fast Download\" works?"
+msgstr "“高速下載”使用步驟？"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
 msgid "If the download doesn't start,"
@@ -544,9 +582,25 @@ msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
 msgstr "所有版本"
 
+msgctxt "[\"VERSION-ALL-VERSIONS\"]"
+msgid "All Versions"
+msgstr "所有版本"
+
 msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
 msgstr "Android 最低版本需求"
+
+msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
+msgid "Total Reviews:"
+msgstr "總評價數:"
+
+msgctxt "[\"COMMENT-REVIEWS_CURRENT\"]"
+msgid "Reviews in {0}:"
+msgstr "{0}評價數:"
+
+msgctxt "[\"COMMENT-REVIEWS_CURRENT_MOB\"]"
+msgid "In {0}:"
+msgstr "{0}數:"
 
 msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
 msgid "There are {0} reviews in other languages"
@@ -704,6 +758,10 @@ msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
 msgstr "投票"
 
+msgctxt "[\"COMMENT-LIKE\"]"
+msgid "Like"
+msgstr "贊"
+
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
 msgstr "快速登錄發生錯誤,請重試。"
@@ -721,7 +779,7 @@ msgid "Vote failed, repeated"
 msgstr "不允許重複打分"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
-msgid "Defeat,your post contains sensitive terms"
+msgid "Comment failed, your post contains sensitive terms."
 msgstr "評論失敗，您的評論包含敏感字詞"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
@@ -733,7 +791,7 @@ msgid "Your post contains link and is pending approval by an admin"
 msgstr "您的評論包含鏈接，已加入審核"
 
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
-msgid "Comment forbidden"
+msgid "Permission denied"
 msgstr "權限不足"
 
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
@@ -760,6 +818,10 @@ msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
 msgstr "無效的視頻鏈接"
 
+msgctxt "[\"COMMENT-ERR_INVALID_REVIEW_USER\"]"
+msgid "To give your ratings, you need to verify your email."
+msgstr "需要驗證郵箱才能評分"
+
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
 msgstr "刪除"
@@ -767,6 +829,10 @@ msgstr "刪除"
 msgctxt "[\"COMMENT-DELETED\"]"
 msgid "Deleted!"
 msgstr "已刪除！"
+
+msgctxt "[\"COMMENT-SAME_TEXT\"]"
+msgid "The text is the same, please post it later."
+msgstr "文本內容相同，請稍後再發布。"
 
 msgctxt "[\"COMMENT-DEL\"]"
 msgid "Delete"
@@ -792,6 +858,22 @@ msgctxt "[\"COMMENT-LINK\"]"
 msgid "Link"
 msgstr "網頁鏈接"
 
+msgctxt "[\"COMMENT-HASHTAG_NOT_EXIST\"]"
+msgid "The hashtag does not exist"
+msgstr "話題不存在"
+
+msgctxt "[\"COMMENT-HASHTAG\"]"
+msgid "Hashtag"
+msgstr "話題"
+
+msgctxt "[\"COMMENT-FOLLOW_COUNT\"]"
+msgid "Followers: {0}"
+msgstr "關注：{0}"
+
+msgctxt "[\"COMMENT-POST_COUNT\"]"
+msgid "Posts: {0}"
+msgstr "評論：{0}"
+
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-Registration Games"
 msgstr "預註冊遊戲"
@@ -815,6 +897,62 @@ msgstr "註冊獎勵"
 msgctxt "[\"PRE-REGISTER_PAGE\"]"
 msgid "Pre-Register Page"
 msgstr "預註冊頁面"
+
+msgctxt "[\"HASHTAG\"]"
+msgid "HASHTAG"
+msgstr "話題"
+
+msgctxt "[\"HOT_HASHTAG\"]"
+msgid "Featured Hashtags"
+msgstr "精選話題"
+
+msgctxt "[\"COOL_COMMENT\"]"
+msgid "Cool Comment"
+msgstr "精彩評論"
+
+msgctxt "[\"MORE_COOL_COMMENTS\"]"
+msgid "More cool comments"
+msgstr "更多精彩評論 "
+
+msgctxt "[\"USER-SETTINGS\"]"
+msgid "Settings"
+msgstr "設置"
+
+msgctxt "[\"USER-INFO_ALL\"]"
+msgid "All"
+msgstr "全部"
+
+msgctxt "[\"USER-INFO_REVIEW\"]"
+msgid "Review"
+msgstr "評測"
+
+msgctxt "[\"USER-INFO_STORY\"]"
+msgid "Story"
+msgstr "圖文"
+
+msgctxt "[\"USER-INFO_POST\"]"
+msgid "Post"
+msgstr "動態"
+
+msgctxt "[\"USER-SAY_SOMETHING\"]"
+msgid "Why do you want to delete this account?"
+msgstr "您為什麼要刪除此帳戶？"
+
+msgctxt "[\"USER-A_PRIVATE_ACCOUNT\"]"
+msgid "It's a private account."
+msgstr "已設為私密賬戶"
+
+msgctxt "[\"USER-PRIVACY_SETTING\"]"
+msgid "Privacy Settings"
+msgstr "隱私設置"
+
+msgctxt "[\"USER-PRIVATE_ACCOUNT\"]"
+msgid "Private Account"
+msgstr "私密賬戶"
+
+msgctxt "[\"USER-DELETE_ACCOUNT\"]"
+msgid "Delete your account and information"
+msgstr "刪除賬戶與信息"
 
 msgctxt "[\"USER-FOLLOWING\"]"
 msgid "Following"
@@ -916,6 +1054,10 @@ msgctxt "[\"USER-UNKNOWN_ERROR\"]"
 msgid "unknown mistake."
 msgstr "未知錯誤。"
 
+msgctxt "[\"USER-DISABLE\"]"
+msgid "This account has been deleted"
+msgstr "該賬號已被刪除"
+
 msgctxt "[\"USER-BAD_NAME\"]"
 msgid "Your input includes sensitive vocabulary."
 msgstr "您的輸入包括敏感詞彙。"
@@ -946,6 +1088,10 @@ msgstr "驗證碼錯誤"
 
 msgctxt "[\"USER-SEND_VERIFICATION_CODE\"]"
 msgid "Send verification code"
+msgstr "發送驗證碼"
+
+msgctxt "[\"USER-SEND_CODE\"]"
+msgid "Send Code"
 msgstr "發送驗證碼"
 
 msgctxt "[\"USER-CONNECT_YOUR_EMAIL\"]"
@@ -992,6 +1138,10 @@ msgctxt "[\"USER-SAVE\"]"
 msgid "Save"
 msgstr "保存"
 
+msgctxt "[\"USER-SAVE_BTN\"]"
+msgid "SAVE"
+msgstr "保存"
+
 msgctxt "[\"USER-SAVING\"]"
 msgid "Saving..."
 msgstr "保存中..."
@@ -1007,6 +1157,10 @@ msgstr "更換圖片"
 msgctxt "[\"USER-PASSWORD\"]"
 msgid "Password"
 msgstr "密碼"
+
+msgctxt "[\"USER-RETRIEVE_PASSWORD\"]"
+msgid "Retrieve Password"
+msgstr "找回密碼"
 
 msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
 msgid "New User Registration"
@@ -1104,10 +1258,6 @@ msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
 msgstr "文件大小"
 
-msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
-msgid "{0} On the App Store"
-msgstr "{0} On the App Store"
-
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
 msgstr "高級搜索"
@@ -1148,13 +1298,41 @@ msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
 msgstr "搜索"
 
+msgctxt "[\"SEARCH-APP\"]"
+msgid "Search App"
+msgstr "搜索應用"
+
 msgctxt "[\"SEARCH-TRENDING\"]"
-msgid "trending searches"
+msgid "Trending searches"
 msgstr "熱門搜索"
 
 msgctxt "[\"SEARCH-HISTORY\"]"
 msgid "Search history"
 msgstr "搜索歷史"
+
+msgctxt "[\"SEARCH-FEATURED_HASHTAG\"]"
+msgid "Featured hashtags"
+msgstr "精選話題"
+
+msgctxt "[\"SEARCH-TAB_APPS\"]"
+msgid "Apps"
+msgstr "應用"
+
+msgctxt "[\"SEARCH-TAB_USERS\"]"
+msgid "Users"
+msgstr "用戶"
+
+msgctxt "[\"SEARCH-TAB_HASHTAGS\"]"
+msgid "Hashtags"
+msgstr "話題"
+
+msgctxt "[\"SEARCH-TAB_COMMENTS\"]"
+msgid "Posts"
+msgstr "帖子"
+
+msgctxt "[\"SEARCH-NO_RESULTS\"]"
+msgid "Sorry, no results found."
+msgstr "抱歉，暫無搜索結果"
 
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
@@ -1180,13 +1358,17 @@ msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
 msgstr "抱歉！看來您正查找的頁面已不存在。 <br/>您可以選擇在下方瀏覽更多 Android 遊戲和應用"
 
+msgctxt "[\"FREQUENTLY-VISITED\"]"
+msgid "Your operation is too frequent. Please try again in {time} minutes."
+msgstr "操作過於頻繁，請{time}分鐘後再試。"
+
 msgctxt "[\"COPYRIGHT\"]"
-msgid "Copyright © 2014-2018 APKPure All rights reserved."
-msgstr "© 2014-2018 APKPure 版權所有"
+msgid "Copyright © 2014-2020 APKPure All rights reserved."
+msgstr "© 2014-2020 APKPure 版權所有"
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
-msgid "APKPure.com © 2014-2018"
-msgstr "© 2014-2018 APKPure 版權所有"
+msgid "APKPure.com © 2014-2020"
+msgstr "© 2014-2020 APKPure 版權所有"
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
@@ -1195,14 +1377,6 @@ msgstr "即將上架"
 msgctxt "[\"SEARCHING\"]"
 msgid "Searching..."
 msgstr "搜索中..."
-
-msgctxt "[\"FOOTER-APK_DOWNLOADER_SEO\"]"
-msgid "APK Downloader"
-msgstr "APK Downloader"
-
-msgctxt "[\"FOOTER-APK_DOWNLOADS_SEO\"]"
-msgid "APK Downloads"
-msgstr "APK Downloads"
 
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
@@ -1304,10 +1478,6 @@ msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
 msgstr "商務合作"
 
-msgctxt "[\"FOOTER-XAPK\"]"
-msgid "XAPK"
-msgstr "XAPK"
-
 msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
 msgstr "舉報濫用"
@@ -1325,7 +1495,7 @@ msgid "Top Developers"
 msgstr "熱門開發者"
 
 msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
-msgid "Top Countries"
+msgid "Partitioned Ranking"
 msgstr "分區排行"
 
 msgctxt "[\"MARKET-POP_TITLE\"]"
@@ -1484,21 +1654,81 @@ msgctxt "[\"USERS-RECOMMENDED\"]"
 msgid "Users' Recommendations"
 msgstr "用戶推薦"
 
-msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
-msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
-msgstr "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgctxt "[\"LANGUAGE\"]"
+msgid "Language"
+msgstr "語言"
 
-msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
-msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
-msgstr "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgctxt "[\"LANGUAGE-KR\"]"
+msgid "Korean"
+msgstr "韓語"
 
-msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
-msgid "Ok I Agree"
-msgstr "Ok I Agree"
+msgctxt "[\"LANGUAGE-AR\"]"
+msgid "Arabic"
+msgstr "阿拉伯語"
 
-msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
-msgid "Learn More"
-msgstr "Learn More"
+msgctxt "[\"LANGUAGE-EN\"]"
+msgid "English"
+msgstr "英語"
+
+msgctxt "[\"LANGUAGE-ES\"]"
+msgid "Spanish"
+msgstr "西班牙語"
+
+msgctxt "[\"LANGUAGE-FR\"]"
+msgid "French"
+msgstr "法語"
+
+msgctxt "[\"LANGUAGE-IN\"]"
+msgid "Hindi"
+msgstr "印地語"
+
+msgctxt "[\"LANGUAGE-ID\"]"
+msgid "Indonesian"
+msgstr "印尼語"
+
+msgctxt "[\"LANGUAGE-IT\"]"
+msgid "Italian"
+msgstr "意大利語"
+
+msgctxt "[\"LANGUAGE-JP\"]"
+msgid "Japanese"
+msgstr "日語"
+
+msgctxt "[\"LANGUAGE-DE\"]"
+msgid "German"
+msgstr "德語"
+
+msgctxt "[\"LANGUAGE-NL\"]"
+msgid "Dutch"
+msgstr "荷蘭語"
+
+msgctxt "[\"LANGUAGE-PL\"]"
+msgid "Polish"
+msgstr "波蘭語"
+
+msgctxt "[\"LANGUAGE-BR\"]"
+msgid "Portuguese"
+msgstr "葡萄牙語"
+
+msgctxt "[\"LANGUAGE-RU\"]"
+msgid "Russian"
+msgstr "俄語"
+
+msgctxt "[\"LANGUAGE-TR\"]"
+msgid "Turkish"
+msgstr "土耳其語"
+
+msgctxt "[\"LANGUAGE-VN\"]"
+msgid "Vietnamese"
+msgstr "越南語"
+
+msgctxt "[\"LANGUAGE-CN\"]"
+msgid "Chinese Simplified"
+msgstr "中文簡體"
+
+msgctxt "[\"LANGUAGE-TW\"]"
+msgid "traditional Chinese"
+msgstr "中文繁體"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
 msgid "USA"
@@ -1556,10 +1786,6 @@ msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
 msgstr "請求量過大，請5分鐘後再試。"
 
-msgctxt "[\"tip\"][\"SHORT_NAME\"]"
-msgid "{0}"
-msgstr "{0}"
-
 msgctxt "[\"tip\"][\"VERSION\"]"
 msgid "Download {app_short_name} v{version_name} for android"
 msgstr "下載{app_short_name}安卓版 v {version_name}"
@@ -1571,14 +1797,6 @@ msgstr "{0} 圖標"
 msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
 msgid "{0} Previous Versions"
 msgstr "{0}歷史版本"
-
-msgctxt "[\"tip\"][\"LIST_ICON\"]"
-msgid "{0} APK"
-msgstr "{0} APK"
-
-msgctxt "[\"tip\"][\"LIST_TITLE\"]"
-msgid "{0} APK"
-msgstr "{0} APK"
 
 msgctxt "[\"tip\"][\"LIST_DOWN\"]"
 msgid "Download {0} latest version apk"
@@ -1648,101 +1866,13 @@ msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
 msgstr "下載APK"
 
-msgctxt "[\"js\"][\"LANG_TIP\"][\"pl\"]"
-msgid "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
-msgstr "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
+msgctxt "[\"js\"][\"UPLOAD-TIMED_OUT\"]"
+msgid "File parsing timed out. (Error code: 10003)"
+msgstr "文件解析超時。（錯誤代碼：10003）"
 
-msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
-msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
-msgstr "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
-
-msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
-msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
-msgstr "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
-
-msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
-msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
-msgstr "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
-
-msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
-msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
-msgstr "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
-
-msgctxt "[\"js\"][\"LANG_TIP\"][\"de\"]"
-msgid "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
-msgstr "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
-
-msgctxt "[\"js\"][\"LANG_TIP\"][\"vn\"]"
-msgid "Bạn có muốn thay đổi ngôn ngữ ưa thích của mình thành <strong> Tiếng Việt </strong> không?"
-msgstr "Bạn có muốn thay đổi ngôn ngữ ưa thích của mình thành <strong> Tiếng Việt </strong> không?"
-
-msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
-msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
-msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"pl\"]"
-msgid "Ignorować"
-msgstr "Ignorować"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
-msgid "Ignorar"
-msgstr "Ignorar"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
-msgid "игнорировать"
-msgstr "игнорировать"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
-msgid "Mengabaikan"
-msgstr "Mengabaikan"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
-msgid "Ignorare"
-msgstr "Ignorare"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"de\"]"
-msgid "Negeren"
-msgstr "Negeren"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"vn\"]"
-msgid "OK"
-msgstr "OK"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
-msgid "Negeren"
-msgstr "Negeren"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"pl\"]"
-msgid "ok"
-msgstr "ok"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
-msgid "DE ACUERDO"
-msgstr "DE ACUERDO"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"ru\"]"
-msgid "ОК"
-msgstr "ОК"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"id\"]"
-msgid "baik"
-msgstr "baik"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
-msgid "ok"
-msgstr "ok"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"de\"]"
-msgid "OK"
-msgstr "OK"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"vn\"]"
-msgid "OK"
-msgstr "OK"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
-msgid "OK"
-msgstr "OK"
+msgctxt "[\"js\"][\"UPLOAD-LIMIT_SIZE\"]"
+msgid "The file size cannot exceed {0}."
+msgstr "文件大小不能超過{0}。"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
@@ -1860,9 +1990,17 @@ msgctxt "[\"js\"][\"USER-RESEND_VERIFICATION\"]"
 msgid "Resend verification code"
 msgstr "重新發送"
 
+msgctxt "[\"js\"][\"USER-RESEND\"]"
+msgid "Resend code"
+msgstr "重新發送"
+
 msgctxt "[\"js\"][\"USER-RESEND_IN\"]"
 msgid "Resend in {0}"
 msgstr "重新發送({0})"
+
+msgctxt "[\"js\"][\"SUBMISSION_SUCCESS\"]"
+msgid "Submission success."
+msgstr "提交成功"
 
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
@@ -1879,6 +2017,10 @@ msgstr "你確定？"
 msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
 msgid "Before writing a review or something, please rate the app first."
 msgstr "發表評價前，請先評星！"
+
+msgctxt "[\"js\"][\"COMMENT-LIKE\"]"
+msgid "Like"
+msgstr "贊"
 
 msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -1964,6 +2106,18 @@ msgctxt "[\"meta\"][\"Details_download_new\"][\"description_old\"]"
 msgid "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
 msgstr "{app_short_name}下載，{app_short_name}安卓版{version_name}APK免費下載。{app_short_description}"
 
+msgctxt "[\"meta\"][\"Download_apk_info\"][\"title\"]"
+msgid "Getting Started in {app_short_name}"
+msgstr "馬上進入{app_short_name}"
+
+msgctxt "[\"meta\"][\"Download_apk_info\"][\"keywords\"]"
+msgid "{app_short_name} information, game info, app info, requirements, versions"
+msgstr "{app_short_name} 信息, 遊戲簡介, 應用詳情, 需求限制, 版本"
+
+msgctxt "[\"meta\"][\"Download_apk_info\"][\"description\"]"
+msgid "Download {app_name} and learn more details about {app_short_name} requirements, running os version and more on APKPure Android App Store."
+msgstr "下載遊戲{app_name}，查詢遊戲簡介，運行限制，系統需求等信息一切盡在APKPure安卓應用商店。"
+
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
 msgstr "安卓版帶數據包{0}免費下載"
@@ -1991,14 +2145,6 @@ msgstr "下載官方正版安卓{0}"
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
 msgid "APKPure Editors' Picks for the best Android Games & Apps"
 msgstr "編輯推薦 | APKPure.com"
-
-msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
-msgid "android apps, android games, must have android games, must have android apps, game download"
-msgstr "android apps, android games, must have android games, must have android apps, game download"
-
-msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
-msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2018."
-msgstr "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2018."
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
@@ -2032,25 +2178,25 @@ msgctxt "[\"meta\"][\"FAQ\"][\"keywords\"]"
 msgid "{0}"
 msgstr "常見問題, 熱門問題, 下載問題, APK安裝問題"
 
-msgctxt "[\"meta\"][\"FAQ\"][\"description\"]"
-msgid "{0}"
-msgstr "{0}"
-
 msgctxt "[\"meta\"][\"Developer\"][\"title\"]"
-msgid "All {0} free Android apps apk download | APKPure.com"
-msgstr "{0}所有好玩的安卓應用下載，遊戲下載更新"
+msgid "All {developer} free Android apps apk download | APKPure.com"
+msgstr "{developer}所有好玩的安卓應用下載，遊戲下載更新"
 
 msgctxt "[\"meta\"][\"Developer\"][\"keywords\"]"
-msgid "{0} apk download, download {0} free app, {0} games for android,  {0} games app list, {0} app update, {0} app apk downloader"
-msgstr "{0}安卓apk下載, {0}安卓版下載, {0}安卓遊戲下載, {0}好玩的應用下載, {0}最新版升級, {0}APK下載"
+msgid "{developer} apk download, download {developer} free app, {developer} games for android,  {developer} games app list, {developer} app update, {developer} app apk downloader"
+msgstr "{developer}安卓apk下載, {developer}安卓版下載, {developer}安卓遊戲下載, {developer}好玩的應用下載, {developer}最新版升級, {developer}APK下載"
 
 msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
-msgid "All Apps or Games Published by \"{0}\""
-msgstr "{0}所有安卓遊戲免費下載，最新版下載更新。"
+msgid "All Apps or Games Published by \"{developer}\""
+msgstr "{developer}所有安卓遊戲免費下載，最新版下載更新。"
+
+msgctxt "[\"meta\"][\"Developer\"][\"description_new\"]"
+msgid "{description}, All Apps or Games Published by \"{developer}\""
+msgstr "{description}, {developer}所有安卓遊戲免費下載，最新版下載更新。"
 
 msgctxt "[\"meta\"][\"Tag\"][\"title\"]"
-msgid "{0} Android Games & Apps on APKPure App Store"
-msgstr "{0}標籤熱門遊戲或應用 - APKPure應用商店"
+msgid "Tag {0} - APKPure"
+msgstr "{0}標籤 - APKPure"
 
 msgctxt "[\"meta\"][\"Tag\"][\"keywords\"]"
 msgid "{0}, {0} games,{0} apps, {0} download, {0} android"
@@ -2067,10 +2213,6 @@ msgstr "APKPure應用商店站內搜索{0}"
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
 msgstr "{0}安卓版APK下載，下載最新版{0}APK安裝包"
-
-msgctxt "[\"meta\"][\"Search\"][\"description\"]"
-msgid "{0}"
-msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"title\"]"
 msgid "Search - APKPure Android App Store"
@@ -2156,18 +2298,6 @@ msgctxt "[\"meta\"][\"Topics\"][\"description\"]"
 msgid "Topics"
 msgstr "專題"
 
-msgctxt "[\"meta\"][\"Topic\"][\"title\"]"
-msgid "{0} | APKPure.com"
-msgstr "{0} | APKPure.com"
-
-msgctxt "[\"meta\"][\"Topic\"][\"keywords\"]"
-msgid "{0}"
-msgstr "{0}"
-
-msgctxt "[\"meta\"][\"Topic\"][\"description\"]"
-msgid "{0}"
-msgstr "{0}"
-
 msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
 msgid "{app_type} Like {app_short_name}"
 msgstr "類似{app_short_name}的安卓{app_type}"
@@ -2208,6 +2338,26 @@ msgctxt "[\"meta\"][\"Email\"][\"description\"]"
 msgid "Before posting on APKPure, you need to verify email address associated with your account. Use the verification code in confirmation email to unlock more features."
 msgstr "在APKPure社區發帖之前，您需要驗證與您的帳戶關聯的電子郵箱。 使用確認郵件中的驗證碼來解鎖更多社區功能。"
 
+msgctxt "[\"meta\"][\"Delete_account\"][\"title\"]"
+msgid "Delete Account and Information | APKPure"
+msgstr "刪除賬戶與信息 | APKPure"
+
+msgctxt "[\"meta\"][\"Delete_account\"][\"description\"]"
+msgid "When you delete your account and information, all your uploaded comments, pictures and other information will be deleted, and the account will not be available."
+msgstr "首先需要登陸您的APKPure賬戶，查找到設置頁面，當您刪除賬戶與信息後，您的所有上傳的評論、圖片等信息都將被刪除，該賬號將不能登陸。"
+
+msgctxt "[\"meta\"][\"Privacy_settings\"][\"title\"]"
+msgid "Privacy Settings | APKPure"
+msgstr "隱私設置 | APKPure"
+
+msgctxt "[\"meta\"][\"Privacy_settings\"][\"description\"]"
+msgid "Your profile page is accessible by default. If you set it as a private page, the information will be hided."
+msgstr "默認情況下，您的個人主頁為公開信息，如設置為私密賬戶，那麼您的個人主頁將不能被查看。"
+
+msgctxt "[\"meta\"][\"User_settings\"][\"title\"]"
+msgid "Settings | APKPure"
+msgstr "設置 | APKPure"
+
 msgctxt "[\"meta\"][\"User\"][\"title\"]"
 msgid "{user_name}: Profile and Activity - APKPure AppStore"
 msgstr "{user_name}: 個人主頁和動態"
@@ -2236,6 +2386,10 @@ msgctxt "[\"meta\"][\"Register\"][\"description\"]"
 msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
 msgstr "在討論組發帖或評星前，請先註冊你的APKPure賬戶。今天就加入APKPure吧！"
 
+msgctxt "[\"meta\"][\"Retrieve_password\"][\"title\"]"
+msgid "Retrieve Password | APKPure"
+msgstr "找回密碼 | APKPure"
+
 msgctxt "[\"meta\"][\"Group\"][\"title\"]"
 msgid "{app_name} {app_type} Discussion Group | APKPure Groups"
 msgstr "{app_name}{app_type}討論組 | APKPure 討論組"
@@ -2251,6 +2405,10 @@ msgstr "{app_name}遊戲攻略,操作技巧,通關秘籍盡在{app_name}討論�
 msgctxt "[\"meta\"][\"Group\"][\"description_app\"]"
 msgid "{app_name} group gathers most Android expert users, who like to share experience on how to use {app_short_name} and give {app_short_name} useful app reviews."
 msgstr "{app_name}討論組內匯集了眾多安卓專家級用戶，他們願意分享自己在使用{app_short_name}的經驗並給出實用的應用點評。"
+
+msgctxt "[\"meta\"][\"Hashtag\"][\"title\"]"
+msgid "Hashtag {hashtag} - APKPure"
+msgstr "{hashtag}話題 - APKPure"
 
 msgctxt "[\"meta\"][\"Invit\"][\"title\"]"
 msgid "{user_name} add a post under {app_name} Discussion Group | APKPure Group"

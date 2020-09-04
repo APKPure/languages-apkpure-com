@@ -1,19 +1,3 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-14 14:58+0000\n"
-"PO-Revision-Date: 2018-11-17 22:54+0000\n"
-"Last-Translator: Igor Ferrare <ferrare42@gmail.com>\n"
-"Language-Team: Portuguese (Brazil) <https://translate.apkpure.com/projects/"
-"apkpure/apkpurecom/pt_BR/>\n"
-"Language: pt_BR\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.2.2\n"
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "JOGOS"
@@ -21,10 +5,6 @@ msgstr "JOGOS"
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "APLICATIVOS"
-
-msgctxt "[\"NAV-XAPK\"]"
-msgid "XAPK"
-msgstr "XAPK"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
@@ -87,7 +67,7 @@ msgid "Buy"
 msgstr "Comprar"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
-msgid "Select Language"
+msgid "Choose Language"
 msgstr "Selecione a linguagem"
 
 msgctxt "[\"FREE\"]"
@@ -95,11 +75,11 @@ msgid "Free"
 msgstr "Grátis"
 
 msgctxt "[\"TOP-UPDATED-APPS\"]"
-msgid "Top Updated Apps"
+msgid "Recently Updated Apps"
 msgstr "Principais aplicativos atualizados"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
-msgid "Top Updated Games"
+msgid "Recently Updated Games"
 msgstr "Melhores Jogos Atualizados"
 
 msgctxt "[\"READ_MORE\"]"
@@ -126,10 +106,6 @@ msgctxt "[\"MORE\"]"
 msgid "More"
 msgstr "Mais"
 
-msgctxt "[\"XAPK\"]"
-msgid "XAPK"
-msgstr "XAPK"
-
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
 msgstr "Jogos XAPK"
@@ -154,14 +130,6 @@ msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
 msgstr "Anexo"
 
-msgctxt "[\"DOWNLOADS\"]"
-msgid "Downloads"
-msgstr "Downloads"
-
-msgctxt "[\"DOWNLOADS_ATTACHMENT\"]"
-msgid "Downloads"
-msgstr "Downloads"
-
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
 msgstr "O mais novo"
@@ -173,10 +141,6 @@ msgstr "Classificação"
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
 msgstr "Categoria"
-
-msgctxt "[\"CATEGORY_JOIN\"]"
-msgid "{app_category} {app_type}"
-msgstr "{app_category} {app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
@@ -306,25 +270,9 @@ msgctxt "[\"UPDATE\"]"
 msgid "Update"
 msgstr "Atualizar"
 
-msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
-msgid "Invalid package name or email"
-msgstr "Nome do pacote ou e-mail inválido"
-
-msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
-msgid "Failed to send mail"
-msgstr "Falha ao enviar e-mail"
-
-msgctxt "[\"DEV-PKG_EXISTS\"]"
-msgid "Application has been claimed"
-msgstr "Aplicação foi reivindicada"
-
 msgctxt "[\"DETAIL\"]"
 msgid "Detail"
 msgstr "Detalhe"
-
-msgctxt "[\"DETAIL-HOT_TAGS\"]"
-msgid "{0} Tags"
-msgstr "{0} Tags"
 
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
@@ -478,10 +426,6 @@ msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
 msgid "{0} GAME"
 msgstr "{0} JOGO"
 
-msgctxt "[\"DETAIL-CATEGORY_APP\"]"
-msgid "{0} APP"
-msgstr "{0} APP"
-
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
 msgstr "Carregar mais"
@@ -511,8 +455,8 @@ msgid "Download on Google Play"
 msgstr "Baixar no Google Play"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
-msgid "{app_name} All rights reserved ©2018 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
-msgstr "{App_name} Todos os direitos reservados © 2018 {desenvolvedor}. {developer} e o logótipo {developer} são marcas comerciais da {developer} nos Estados Unidos e / ou de outros países. Todas as outras marcas comerciais pertencem aos seus respectivos proprietários."
+msgid "{app_name} All rights reserved ©2020 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr "{App_name} Todos os direitos reservados © 2020 {desenvolvedor}. {developer} e o logótipo {developer} são marcas comerciais da {developer} nos Estados Unidos e / ou de outros países. Todas as outras marcas comerciais pertencem aos seus respectivos proprietários."
 
 msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
 msgid "Download"
@@ -538,17 +482,9 @@ msgctxt "[\"VERSION-PREVIOUS\"]"
 msgid "Previous versions"
 msgstr "Versões prévias"
 
-msgctxt "[\"VERSION-VERSIONS\"]"
-msgid "Versions"
-msgstr "Versions"
-
 msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
 msgstr "Requer Android"
-
-msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
-msgid "There are {0} reviews in other languages"
-msgstr "Existem {0} revisões em outros idiomas"
 
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
@@ -582,10 +518,6 @@ msgctxt "[\"COMMENT-GROUP\"]"
 msgid "Group"
 msgstr "Grupo"
 
-msgctxt "[\"COMMENT-TITLE_POST\"]"
-msgid "Post"
-msgstr "Post"
-
 msgctxt "[\"COMMENT-ADD\"]"
 msgid "Add Comment"
 msgstr "Adicionar comentário"
@@ -610,13 +542,9 @@ msgctxt "[\"COMMENT-POST\"]"
 msgid "Post"
 msgstr "Publicar"
 
-msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
-msgid "Post review or comment"
-msgstr "Postar crítica ou comentar"
-
 msgctxt "[\"COMMENT-COMMENTS\"]"
 msgid "Comments"
-msgstr "Comentários divertidos"
+msgstr "COMENTÁRIOS"
 
 msgctxt "[\"COMMENT-REPLY\"]"
 msgid "Reply"
@@ -653,10 +581,6 @@ msgstr "Mostrar primeiro os mais votados"
 msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
 msgid "Most Recent"
 msgstr "Mais recente"
-
-msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
-msgid "Top rated"
-msgstr "Mais votado"
 
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
@@ -696,7 +620,7 @@ msgstr "Local na rede Internet"
 
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Ooops! No such content!"
-msgstr "Ooops! Nenhum conteúdo!"
+msgstr "Seja o primeiro a comentar."
 
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -719,7 +643,7 @@ msgid "Vote failed, repeated"
 msgstr "O voto falhou, repetiu"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
-msgid "Defeat,your post contains sensitive terms"
+msgid "Comment failed, your post contains sensitive terms."
 msgstr "Derrota, a sua publicação contém termos sensíveis"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
@@ -731,20 +655,12 @@ msgid "Your post contains link and is pending approval by an admin"
 msgstr "Sua postagem contém link e está pendente de aprovação por um administrador"
 
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
-msgid "Comment forbidden"
-msgstr "Comentário proibido"
+msgid "Permission denied"
+msgstr "Permissão negada"
 
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
 msgstr "Comentário desconhecido"
-
-msgctxt "[\"COMMENT-ERR_EMOJI\"]"
-msgid "Emoji comments are not allowed any more! Write something..."
-msgstr "Comentários com Emoji não são mais permitidos! Escreva algo..."
-
-msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
-msgid "You must write something!"
-msgstr "Você deve escrever algo!"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
@@ -758,6 +674,10 @@ msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
 msgstr "URL do vídeo é inválido"
 
+msgctxt "[\"COMMENT-ERR_INVALID_REVIEW_USER\"]"
+msgid "To give your ratings, you need to verify your email."
+msgstr "Para dar suas classificações, você precisa verificar seu endereço de e-mail."
+
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
 msgstr "Sim, excluí-lo!"
@@ -765,6 +685,10 @@ msgstr "Sim, excluí-lo!"
 msgctxt "[\"COMMENT-DELETED\"]"
 msgid "Deleted!"
 msgstr "Excluído!"
+
+msgctxt "[\"COMMENT-SAME_TEXT\"]"
+msgid "The text is the same, please post it later."
+msgstr "O texto é o mesmo, por favor poste depois."
 
 msgctxt "[\"COMMENT-DEL\"]"
 msgid "Delete"
@@ -782,13 +706,13 @@ msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
 msgstr "Faça o download do arquivo APK no APKPure."
 
-msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
-msgid "This APP cannot be uploaded"
-msgstr "Este aplicativo não pode ser enviado"
-
 msgctxt "[\"COMMENT-LINK\"]"
 msgid "Link"
 msgstr "Ligação"
+
+msgctxt "[\"COMMENT-HASHTAG_NOT_EXIST\"]"
+msgid "The hashtag does not exist"
+msgstr "A hashtag não existe"
 
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-Registration Games"
@@ -814,6 +738,22 @@ msgctxt "[\"PRE-REGISTER_PAGE\"]"
 msgid "Pre-Register Page"
 msgstr "Página do Pré-registro"
 
+msgctxt "[\"HASHTAG\"]"
+msgid "HASHTAG"
+msgstr "Tópico"
+
+msgctxt "[\"HOT_HASHTAG\"]"
+msgid "Featured Hashtags"
+msgstr "Tópicos em destaque"
+
+msgctxt "[\"COOL_COMMENT\"]"
+msgid "Cool Comment"
+msgstr "Comentário maravilhoso"
+
+msgctxt "[\"MORE_COOL_COMMENTS\"]"
+msgid "More cool comments"
+msgstr "Mais"
+
 msgctxt "[\"USER-FOLLOWING\"]"
 msgid "Following"
 msgstr "Seguindo"
@@ -829,14 +769,6 @@ msgstr "Curtidas"
 msgctxt "[\"USER-POSTS\"]"
 msgid "Posts"
 msgstr "Postagens"
-
-msgctxt "[\"USER-REVIEWS\"]"
-msgid "Reviews"
-msgstr "Análises"
-
-msgctxt "[\"USER-REVIEWS_NONE\"]"
-msgid "Too few users ratings"
-msgstr "Poucas classificações de usuários"
 
 msgctxt "[\"USER-FAVORITES\"]"
 msgid "Favorites"
@@ -917,46 +849,6 @@ msgstr "Erro desconhecido."
 msgctxt "[\"USER-BAD_NAME\"]"
 msgid "Your input includes sensitive vocabulary."
 msgstr "Sua entrada inclui vocabulário sensível."
-
-msgctxt "[\"USER-SOCIAL_ALREADY_BIND\"]"
-msgid "This third-party account has been connected to another account."
-msgstr "Essa conta terceirizada está sendo conectada a outra conta."
-
-msgctxt "[\"USER-EMAIL_EXIST\"]"
-msgid "This email has been connected to another account."
-msgstr "Esse email foi conectado a outra conta."
-
-msgctxt "[\"USER-SEND_EMAIL_ERR\"]"
-msgid "Failed to send verification code."
-msgstr "Falha ao enviar o código de verificação."
-
-msgctxt "[\"USER-EMAIL_UNBOUND\"]"
-msgid "This email address is not connected to any account."
-msgstr "Esse endereço de email não está conectado a nenhuma conta."
-
-msgctxt "[\"USER-CAPTCHA_TIME_OUT\"]"
-msgid "Verification Code Timeout."
-msgstr "O Código de Verificação Expirou."
-
-msgctxt "[\"USER-INCORRECT_CAPTCHA\"]"
-msgid "Incorrect Verification Code"
-msgstr "Código de Verificação Incorreto"
-
-msgctxt "[\"USER-SEND_VERIFICATION_CODE\"]"
-msgid "Send verification code"
-msgstr "Enviar o código de verificação"
-
-msgctxt "[\"USER-CONNECT_YOUR_EMAIL\"]"
-msgid "Connect your email"
-msgstr "Conectar seu email"
-
-msgctxt "[\"USER-CHANGE_EMAIL\"]"
-msgid "Change email"
-msgstr "Trocar email"
-
-msgctxt "[\"USER-CONNECT_YOUR_EMAIL_FIRST\"]"
-msgid "Please connect your email first"
-msgstr "Por favor conecte seu email primeiro"
 
 msgctxt "[\"USER-FEMALE\"]"
 msgid "Female"
@@ -1046,10 +938,6 @@ msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
 msgstr "- Faça o download do seu aplicativo Android favorito com o APK Downloader (somente aplicativos grátis). <br> - Seu download começará automaticamente após você colar um id de pacote e clicar no botão de download. Altere manualmente a configuração do país e tente novamente. <br> - Quer nos informar mais sobre seus problemas? <a style='color:#FFFF00' href='contact-us.html'>Entre em contato conosco aqui</a>"
 
-msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
-msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
-msgstr "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
-
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
 msgid "Search"
 msgstr "Pesquisar"
@@ -1102,10 +990,6 @@ msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
 msgstr "Tamanho do arquivo"
 
-msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
-msgid "{0} On the App Store"
-msgstr "{0} na App Store"
-
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
 msgstr "Busca Avançada"
@@ -1147,44 +1031,40 @@ msgid "Search APK"
 msgstr "Pesquisa APK"
 
 msgctxt "[\"SEARCH-TRENDING\"]"
-msgid "trending searches"
+msgid "Trending searches"
 msgstr "buscas de tendências"
 
 msgctxt "[\"SEARCH-HISTORY\"]"
 msgid "Search history"
 msgstr "Histórico de busca"
 
-msgctxt "[\"404-OOPS\"]"
-msgid "OOPS!,"
-msgstr "OOPS!,"
+msgctxt "[\"SEARCH-TAB_USERS\"]"
+msgid "Users"
+msgstr "Usuários"
+
+msgctxt "[\"SEARCH-TAB_HASHTAGS\"]"
+msgid "Hashtags"
+msgstr "Tópicos"
+
+msgctxt "[\"SEARCH-TAB_COMMENTS\"]"
+msgid "Posts"
+msgstr "Comentário"
 
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
 msgstr "Erro 404!"
 
-msgctxt "[\"PRE-REG-NEW\"]"
-msgid "Newest"
-msgstr "O mais recente"
-
-msgctxt "[\"PRE-REG-BEST\"]"
-msgid "Best"
-msgstr "O melhor"
-
-msgctxt "[\"PRE-REG-RECOMMEND\"]"
-msgid "Recommendations"
-msgstr "Recomendações"
-
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
 msgstr "Parece que a página que você está procurando não existe mais. <br /> 1 Você pode explorar mais Jogos e Aplicativos Android abaixo!"
 
-msgctxt "[\"COPYRIGHT\"]"
-msgid "Copyright © 2014-2018 APKPure All rights reserved."
-msgstr "Copyright © 2014-2018 APKPure. Todos os direitos reservados."
+msgctxt "[\"FREQUENTLY-VISITED\"]"
+msgid "Your operation is too frequent. Please try again in {time} minutes."
+msgstr "Sua operação é muito freqüente. Por favor, tente novamente em {time} minutos."
 
-msgctxt "[\"COPYRIGHT_MOBILE\"]"
-msgid "APKPure.com © 2014-2018"
-msgstr "APKPure.com © 2014-2018"
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2020 APKPure All rights reserved."
+msgstr "Copyright © 2014-2020 APKPure. Todos os direitos reservados."
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
@@ -1294,17 +1174,9 @@ msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
 msgstr "Desenvolvedores"
 
-msgctxt "[\"FOOTER-DEVELOPER_CONSOLE\"]"
-msgid "Developer Console"
-msgstr "Developer Console"
-
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
 msgstr "Cooperação empresarial"
-
-msgctxt "[\"FOOTER-XAPK\"]"
-msgid "XAPK"
-msgstr "XAPK"
 
 msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
@@ -1323,7 +1195,7 @@ msgid "Top Developers"
 msgstr "Principais desenvolvedores"
 
 msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
-msgid "Top Countries"
+msgid "Partitioned Ranking"
 msgstr "Principais países"
 
 msgctxt "[\"MARKET-POP_TITLE\"]"
@@ -1341,10 +1213,6 @@ msgstr "Adicionar Imagens ao Post"
 msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
 msgid "Add New Post or Comment"
 msgstr "Adicionar nova postagem ou comentário"
-
-msgctxt "[\"MARKET-POP_ADD_TAG\"]"
-msgid "Add Tags"
-msgstr "Adicionar Tags"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
@@ -1442,10 +1310,6 @@ msgctxt "[\"MARKET-PROMOTION_BANNER_DOWN\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Download / Update this {0}, faster, free and saving data!</p>"
 msgstr "<p class=\"tit\">Usando APKPure App</p><p class=\"des\">Baixar / Atualizar esta apk, mais rápido, gratuito e de dados salvar!</p>"
 
-msgctxt "[\"FLAG-Africa\"]"
-msgid "Africa"
-msgstr "Africa"
-
 msgctxt "[\"FLAG-Americas\"]"
 msgid "Americas"
 msgstr "Américas"
@@ -1466,57 +1330,85 @@ msgctxt "[\"FLAG-Rest_of_the_world\"]"
 msgid "Rest of the world"
 msgstr "Resto do mundo"
 
-msgctxt "[\"ERROR-OOPS\"]"
-msgid "OOPS!,"
-msgstr "OOPS!,"
-
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
 msgstr "Você pode visitar os seguintes Jogos e Aplicativos em vez disso"
-
-msgctxt "[\"RECOMMENDED-POSTS\"]"
-msgid "Recommended Posts"
-msgstr "Postagens Recomendadas"
 
 msgctxt "[\"USERS-RECOMMENDED\"]"
 msgid "Users' Recommendations"
 msgstr "Usuários recomendados"
 
-msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
-msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
-msgstr ""
-"Recomendamos que você leia nossa <a target='_blank' href='{pp}'>Política de "
-"Privacidade</a> atualizada e a <a target='_blank' href='{cp}'>Política de "
-"cookies </a> ."
+msgctxt "[\"LANGUAGE-KR\"]"
+msgid "Korean"
+msgstr "Coreano"
 
-msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
-msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
-msgstr ""
-"Utilizamos cookies e outras tecnologias neste site para melhorar a sua "
-"experiência de usuário. <br> Clicando em qualquer link nesta página, você "
-"está dando seu consentimento para nossa <a target='_blank' href='{pp}'>"
-"Política de Privacidade</a> e <a target='_blank' href='{cp}'>Política de "
-"cookies</a>."
+msgctxt "[\"LANGUAGE-AR\"]"
+msgid "Arabic"
+msgstr "Árabe"
 
-msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
-msgid "Ok I Agree"
-msgstr "OK, eu concordo"
+msgctxt "[\"LANGUAGE-EN\"]"
+msgid "English"
+msgstr "Inglês"
 
-msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
-msgid "Learn More"
-msgstr "Ler Mais"
+msgctxt "[\"LANGUAGE-ES\"]"
+msgid "Spanish"
+msgstr "Espanhol"
 
-msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
-msgid "USA"
-msgstr "USA"
+msgctxt "[\"LANGUAGE-FR\"]"
+msgid "French"
+msgstr "Francês"
+
+msgctxt "[\"LANGUAGE-ID\"]"
+msgid "Indonesian"
+msgstr "Indonésio"
+
+msgctxt "[\"LANGUAGE-IT\"]"
+msgid "Italian"
+msgstr "Italiano"
+
+msgctxt "[\"LANGUAGE-JP\"]"
+msgid "Japanese"
+msgstr "Japonês"
+
+msgctxt "[\"LANGUAGE-DE\"]"
+msgid "German"
+msgstr "Alemão"
+
+msgctxt "[\"LANGUAGE-NL\"]"
+msgid "Dutch"
+msgstr "Holandês"
+
+msgctxt "[\"LANGUAGE-PL\"]"
+msgid "Polish"
+msgstr "Polonês"
+
+msgctxt "[\"LANGUAGE-BR\"]"
+msgid "Portuguese"
+msgstr "Português"
+
+msgctxt "[\"LANGUAGE-RU\"]"
+msgid "Russian"
+msgstr "Russo"
+
+msgctxt "[\"LANGUAGE-TR\"]"
+msgid "Turkish"
+msgstr "Turco"
+
+msgctxt "[\"LANGUAGE-VN\"]"
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+msgctxt "[\"LANGUAGE-CN\"]"
+msgid "Chinese Simplified"
+msgstr "Chinês simplificado"
+
+msgctxt "[\"LANGUAGE-TW\"]"
+msgid "traditional Chinese"
+msgstr "Chinês Tradicional"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ja\"]"
 msgid "Japan"
 msgstr "Japão"
-
-msgctxt "[\"MARKET-TOP_COUNTRY\"][\"zh-CN\"]"
-msgid "China"
-msgstr "China"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ko-KR\"]"
 msgid "Korea"
@@ -1525,10 +1417,6 @@ msgstr "Coréia"
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"id-ID\"]"
 msgid "Indonesia"
 msgstr "Indonésia"
-
-msgctxt "[\"MARKET-TOP_COUNTRY\"][\"pt-BR\"]"
-msgid "Brazil"
-msgstr "Brazil"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
@@ -1562,10 +1450,6 @@ msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
 msgstr "O download falhou, por favor tente novamente em 5 minutos."
 
-msgctxt "[\"tip\"][\"SHORT_NAME\"]"
-msgid "{0}"
-msgstr "{0}"
-
 msgctxt "[\"tip\"][\"VERSION\"]"
 msgid "Download {app_short_name} v{version_name} for android"
 msgstr "Baixe {app_short_name} v {version_name} para Android"
@@ -1577,14 +1461,6 @@ msgstr "{0} ícone"
 msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
 msgid "{0} Previous Versions"
 msgstr "{0} Versões anteriores"
-
-msgctxt "[\"tip\"][\"LIST_ICON\"]"
-msgid "{0} APK"
-msgstr "{0} APK"
-
-msgctxt "[\"tip\"][\"LIST_TITLE\"]"
-msgid "{0} APK"
-msgstr "{0} APK"
 
 msgctxt "[\"tip\"][\"LIST_DOWN\"]"
 msgid "Download {0} latest version apk"
@@ -1653,106 +1529,6 @@ msgstr "Aplicativo Android em alta apk"
 msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
 msgstr "Baixe APK"
-
-msgctxt "[\"js\"][\"LANG_TIP\"][\"pl\"]"
-msgid "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
-msgstr ""
-"Deseja alterar seu idioma de preferência para <strong> Polonês </strong>?"
-
-msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
-msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
-msgstr "Deseja alterar seu idioma preferido para <strong> Espanhol </strong>?"
-
-msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
-msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
-msgstr "Deseja alterar o idioma da preferência para <strong> Russo </strong>?"
-
-msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
-msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
-msgstr ""
-"Gostaria de alterar seu idioma preferido para <strong> Indonésio </strong>?"
-
-msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
-msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
-msgstr "Deseja alterar seu idioma preferido para <strong> Italiano </strong>?"
-
-msgctxt "[\"js\"][\"LANG_TIP\"][\"de\"]"
-msgid "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
-msgstr ""
-"Deseja alterar o idioma de sua preferência para <strong> Alemão </strong>?"
-
-msgctxt "[\"js\"][\"LANG_TIP\"][\"vn\"]"
-msgid "Bạn có muốn thay đổi ngôn ngữ ưa thích của mình thành <strong> Tiếng Việt </strong> không?"
-msgstr ""
-"Deseja alterar seu idioma preferido para <strong> vietnamita </ strong>?"
-
-msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
-msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
-msgstr "Deseja alterar seu idioma preferido para <strong> Holandês </strong>?"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"pl\"]"
-msgid "Ignorować"
-msgstr "Ignorar"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
-msgid "Ignorar"
-msgstr "ignorar"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
-msgid "игнорировать"
-msgstr "Ignorar"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
-msgid "Mengabaikan"
-msgstr "Ignorar"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
-msgid "Ignorare"
-msgstr "Ignorar"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"de\"]"
-msgid "Negeren"
-msgstr "Ignorar"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"vn\"]"
-msgid "OK"
-msgstr "OK"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
-msgid "Negeren"
-msgstr "Ignorar"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"pl\"]"
-msgid "ok"
-msgstr "ok"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
-msgid "DE ACUERDO"
-msgstr "DE ACUERDO"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"ru\"]"
-msgid "ОК"
-msgstr "ОК"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"id\"]"
-msgid "baik"
-msgstr "OK"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
-msgid "ok"
-msgstr "ok"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"de\"]"
-msgid "OK"
-msgstr "OK"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"vn\"]"
-msgid "OK"
-msgstr "OK"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
-msgid "OK"
-msgstr "OK"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
@@ -1834,14 +1610,6 @@ msgctxt "[\"js\"][\"CANCEL\"]"
 msgid "Cancel"
 msgstr "Cancelar"
 
-msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
-msgid "Enter Youtube video URL"
-msgstr "Digite o URL do vídeo do YouTube"
-
-msgctxt "[\"js\"][\"YOUTUBE_URL_ERR\"]"
-msgid "Invalid URL: Please enter a valid YouTube video URL"
-msgstr "URL inválido: insira um URL de vídeo do YouTube válido"
-
 msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
 msgid "Passwords do not match"
 msgstr "As senhas não correspondem"
@@ -1866,14 +1634,6 @@ msgctxt "[\"js\"][\"USER-SAVED_SUCCESS\"]"
 msgid "Saved Successfully"
 msgstr "Salvo com sucesso"
 
-msgctxt "[\"js\"][\"USER-RESEND_VERIFICATION\"]"
-msgid "Resend verification code"
-msgstr "Reenviar código de verificação"
-
-msgctxt "[\"js\"][\"USER-RESEND_IN\"]"
-msgid "Resend in {0}"
-msgstr "Reenviar em {0}"
-
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
 msgstr "Sim, excluí-lo!"
@@ -1885,11 +1645,6 @@ msgstr "Excluído!"
 msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "Tem certeza?"
-
-msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
-msgid "Before writing a review or something, please rate the app first."
-msgstr ""
-"Antes de escrever um comentário ou algo assim, avalie o aplicativo primeiro."
 
 msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -1991,14 +1746,6 @@ msgctxt "[\"meta\"][\"Category_featured\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
 msgstr "Baixar {0} APK Android App Online - Livre APK Downloader"
 
-msgctxt "[\"meta\"][\"Category_featured\"][\"keywords\"]"
-msgid "{0}"
-msgstr "{0}"
-
-msgctxt "[\"meta\"][\"Category_featured\"][\"description\"]"
-msgid "{0}"
-msgstr "{0}"
-
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
 msgid "APKPure Editors' Picks for the best Android Games & Apps"
 msgstr "Editores do APKPure Escolha os melhores Jogos e Aplicativos para Android"
@@ -2008,8 +1755,8 @@ msgid "android apps, android games, must have android games, must have android a
 msgstr "android aplicativos, jogos para Android, deve ter jogos para Android, deve ter aplicativos para Android, jogo download"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
-msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2018."
-msgstr "Jogar com milhões de aplicativos gratuitos em estilo APKPure em telefones Android, tablets, TV, etc. Baixe o melhor deve ter android jogos que você deve jogar de 2018."
+msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2020."
+msgstr "Jogar com milhões de aplicativos gratuitos em estilo APKPure em telefones Android, tablets, TV, etc. Baixe o melhor deve ter android jogos que você deve jogar de 2020."
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
@@ -2039,39 +1786,17 @@ msgctxt "[\"meta\"][\"FAQ\"][\"title\"]"
 msgid "{0} FAQ | APKPure.com"
 msgstr "{0} Perguntas frequentes | APKPure.com"
 
-msgctxt "[\"meta\"][\"FAQ\"][\"keywords\"]"
-msgid "{0}"
-msgstr "{0}"
-
-msgctxt "[\"meta\"][\"FAQ\"][\"description\"]"
-msgid "{0}"
-msgstr "{0}"
-
 msgctxt "[\"meta\"][\"Developer\"][\"title\"]"
-msgid "All {0} free Android apps apk download | APKPure.com"
-msgstr "Todos {0} os livre aplicativos Android Download apk | APKPure.com"
+msgid "All {developer} free Android apps apk download | APKPure.com"
+msgstr "Todos {developer} os livre aplicativos Android Download apk | APKPure.com"
 
 msgctxt "[\"meta\"][\"Developer\"][\"keywords\"]"
-msgid "{0} apk download, download {0} free app, {0} games for android,  {0} games app list, {0} app update, {0} app apk downloader"
-msgstr "{0} apk baixar, baixar {0} free app, {0} jogos for android, {0} jogos app list, {0} aplicativos update, {0} aplicativos apk downloader"
+msgid "{developer} apk download, download {developer} free app, {developer} games for android,  {developer} games app list, {developer} app update, {developer} app apk downloader"
+msgstr "{developer} apk baixar, baixar {developer} free app, {developer} jogos for android, {developer} jogos app list, {developer} aplicativos update, {developer} aplicativos apk downloader"
 
 msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
-msgid "All Apps or Games Published by \"{0}\""
-msgstr "Todos os aplicativos ou jogos Publicado por \"{0}\""
-
-msgctxt "[\"meta\"][\"Tag\"][\"title\"]"
-msgid "{0} Android Games & Apps on APKPure App Store"
-msgstr "{0} Jogos & Aplicativos para Android no APKPure App Store"
-
-msgctxt "[\"meta\"][\"Tag\"][\"keywords\"]"
-msgid "{0}, {0} games,{0} apps, {0} download, {0} android"
-msgstr "{0}, {0} jogos,{0} aplicativos, {0} baixar, {0} android"
-
-msgctxt "[\"meta\"][\"Tag\"][\"description\"]"
-msgid "Browse and download top {0} games and apps for android mobile, tablets and more"
-msgstr ""
-"Procure e baixe os melhores {0} jogos e aplicativos para smartphones, "
-"tablets e mais"
+msgid "All Apps or Games Published by \"{developer}\""
+msgstr "Todos os aplicativos ou jogos Publicado por \"{developer}\""
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
@@ -2080,10 +1805,6 @@ msgstr "{0} Resultados da pesquisa | APKPure.com"
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
 msgstr "{0} apk download, {0} apk"
-
-msgctxt "[\"meta\"][\"Search\"][\"description\"]"
-msgid "{0}"
-msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"title\"]"
 msgid "Search - APKPure Android App Store"
@@ -2169,18 +1890,6 @@ msgctxt "[\"meta\"][\"Topics\"][\"description\"]"
 msgid "Topics"
 msgstr "Tópico"
 
-msgctxt "[\"meta\"][\"Topic\"][\"title\"]"
-msgid "{0} | APKPure.com"
-msgstr "{0} | APKPure.com"
-
-msgctxt "[\"meta\"][\"Topic\"][\"keywords\"]"
-msgid "{0}"
-msgstr "{0}"
-
-msgctxt "[\"meta\"][\"Topic\"][\"description\"]"
-msgid "{0}"
-msgstr "{0}"
-
 msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
 msgid "{app_type} Like {app_short_name}"
 msgstr "{app_type} Gostei {app_short_name}"
@@ -2212,17 +1921,6 @@ msgstr "Mudar senha"
 msgctxt "[\"meta\"][\"Password\"][\"description\"]"
 msgid "Change or reset my password."
 msgstr "Alterar ou redefinir minha senha."
-
-msgctxt "[\"meta\"][\"Email\"][\"title\"]"
-msgid "Verify Your Email Address | APKPure"
-msgstr "Verifique Seu Endereço de Email | APKPure"
-
-msgctxt "[\"meta\"][\"Email\"][\"description\"]"
-msgid "Before posting on APKPure, you need to verify email address associated with your account. Use the verification code in confirmation email to unlock more features."
-msgstr ""
-"Antes de postar no APKPure, você precisa verificar o endereço de email "
-"associado a sua conta. Use o código de verificação no email de confirmação "
-"para desbloquear mais ferramentas."
 
 msgctxt "[\"meta\"][\"User\"][\"title\"]"
 msgid "{user_name}: Profile and Activity - APKPure AppStore"
