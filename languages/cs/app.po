@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-01 00:59+0000\n"
-"PO-Revision-Date: 2021-06-08 07:52+0000\n"
-"Last-Translator: ffhfh ghghg <tatavojta123@seznam.cz>\n"
+"PO-Revision-Date: 2021-07-12 19:09+0000\n"
+"Last-Translator: Lukas Nisam 300213 <masinlukas07@gmail.com>\n"
 "Language-Team: Czech <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/cs/>\n"
 "Language: cs\n"
@@ -58,7 +58,6 @@ msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
 msgstr "Stáhnout APK"
 
-#, fuzzy
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
 msgstr "Verifikace Apk"
@@ -101,7 +100,7 @@ msgstr "Vybrat Jazyk"
 
 msgctxt "[\"EDITORS_CHOICE\"]"
 msgid "Editor's Choice"
-msgstr "Editor's Choice"
+msgstr "Výběr redakce"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
@@ -155,14 +154,13 @@ msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
 msgstr "Seřadit podle"
 
-#, fuzzy
 msgctxt "[\"HOT\"]"
 msgid "Hot"
 msgstr "Hot"
 
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
-msgstr ""
+msgstr "řetězec"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
@@ -190,19 +188,19 @@ msgstr ""
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr ""
+msgstr "Zobrazit Více"
 
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr ""
+msgstr "Zobrazit méně"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "All {0} Apps"
-msgstr ""
+msgstr "Všech {0} Aplikací"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
-msgstr ""
+msgstr "Vývojář"
 
 msgctxt "[\"UPLOADER\"]"
 msgid "Uploaded by"
@@ -210,79 +208,83 @@ msgstr ""
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr ""
+msgstr "Populární hry posledních {0} Hodin"
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr ""
+msgstr "Populární hry v posledních {0} Hodinách"
 
+#, fuzzy
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
-msgstr ""
+msgstr "Populární aplikace dneška"
 
+#, fuzzy
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr ""
+msgstr "Populární aplikace dneška"
 
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
-msgstr ""
+msgstr "Hot Games"
 
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
-msgstr ""
+msgstr "Hot Apps"
 
 msgctxt "[\"CLOSE\"]"
 msgid "Close"
-msgstr ""
+msgstr "Zavřít"
 
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
-msgstr ""
+msgstr "Komentáře"
 
 msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"REASON\"]"
 msgid "Reason"
-msgstr ""
+msgstr "příčina"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr ""
+msgstr "Nedávno aktualizované hry"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr ""
+msgstr "Nedávno aktualizované hry"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
-msgstr ""
+msgstr "Poslední aktualizace"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr ""
+msgstr "XAPK je APK s OBB daty"
 
+#, fuzzy
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr ""
+msgstr "Nejvíce populární dnes"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
-msgstr ""
+msgstr "Podobné nebo související"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr ""
+msgstr "Stahování Android her a aplikací zdarma."
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr ""
+msgstr "Stahování Android her a aplikací zdarma."
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
-msgstr ""
+msgstr "Jal stáhnout apk soubor?"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
@@ -290,39 +292,39 @@ msgstr ""
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
-msgstr ""
+msgstr "Populární kategorie"
 
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "Stažení APK"
 
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
-msgstr ""
+msgstr "Ověřovací kód"
 
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr ""
+msgstr "Ověřovací kód není správný!"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr ""
+msgstr "Zadejte kód, jak vidíte na obrázku, a klikněte na „Stáhnout“."
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
-msgstr ""
+msgstr "Popisek"
 
 msgctxt "[\"MORE-TOPICS\"]"
 msgid "More Topics"
-msgstr ""
+msgstr "Větší popisek"
 
 msgctxt "[\"TAG\"]"
 msgid "Tag {0}"
-msgstr ""
+msgstr "Tag {0}"
 
 msgctxt "[\"BROWSING_TAG\"]"
 msgid "Browsing {0}"
-msgstr ""
+msgstr "Prohlížení {0}"
 
 msgctxt "[\"ADDITIONAL_INFORMATION\"]"
 msgid "Additional Information"
@@ -334,59 +336,59 @@ msgstr ""
 
 msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 msgctxt "[\"UPDATE\"]"
 msgid "Update"
-msgstr ""
+msgstr "Aktualizovat"
 
 msgctxt "[\"SUBMIT\"]"
 msgid "Submit"
-msgstr ""
+msgstr "Podat"
 
 msgctxt "[\"SUBMITTING\"]"
 msgid "Submitting..."
-msgstr ""
+msgstr "Podávání..."
 
 msgctxt "[\"UPLOAD-FAILED\"]"
 msgid "File upload failed. (Error code: 10001)"
-msgstr ""
+msgstr "Nahrání souborů bylo neúspěšné. (Error code: 10001)"
 
 msgctxt "[\"UPLOAD-PARSING_FAILED\"]"
 msgid "File parsing failed. (Error code: 10002)"
-msgstr ""
+msgstr "Analýza souboru selhala. (Error code: 10002)"
 
 msgctxt "[\"DETAIL\"]"
 msgid "Detail"
-msgstr ""
+msgstr "Detaily"
 
 msgctxt "[\"DETAIL-HOT_TAGS\"]"
 msgid "{0} Tags"
-msgstr ""
+msgstr "{0} Tags"
 
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
-msgstr ""
+msgstr "Mohlo by se Vám také líbit"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
-msgstr ""
+msgstr "Placené hry"
 
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr ""
+msgstr "Placené aplikace"
 
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
-msgstr ""
+msgstr "Placené hry není možné stáhnout"
 
 msgctxt "[\"DETAIL-PAID_APP_DES\"]"
 msgid "Paid apps are not available to download"
-msgstr ""
+msgstr "Placené aplikace nelze stáhnout"
 
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr ""
+msgstr "Proč můžeme zaručit 100% bezpečný APK soubor?"
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
@@ -1995,10 +1997,12 @@ msgstr ""
 msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
 msgid "Username must be 1-20 characters long and special characters are not allowed."
 msgstr ""
+"Uživatelské jméno musí mít délku 1–20 znaků a speciální znaky nejsou "
+"povoleny."
 
 msgctxt "[\"js\"][\"USER-SAVED_SUCCESS\"]"
 msgid "Saved Successfully"
-msgstr ""
+msgstr "Úspěšně uloženo"
 
 msgctxt "[\"js\"][\"USER-RESEND_VERIFICATION\"]"
 msgid "Resend verification code"
@@ -2675,3 +2679,7 @@ msgstr "Aplikace"
 msgctxt "[\"GAME\"]"
 msgid "Game"
 msgstr "Hra"
+
+msgctxt "[\"ADDITIONAL_INFORMATION\"]"
+msgid "Additional App Information"
+msgstr "Další informace o aplikaci"

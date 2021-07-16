@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-07 12:45+0000\n"
-"PO-Revision-Date: 2021-01-04 23:39+0000\n"
-"Last-Translator: ajit bediz <ajitmira99@gmail.com>\n"
+"PO-Revision-Date: 2021-07-14 18:19+0000\n"
+"Last-Translator: Kitsuna 3. 1 <kitsuna1234@gmail.com>\n"
 "Language-Team: Malay <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ms/>\n"
 "Language: ms\n"
@@ -178,10 +178,9 @@ msgctxt "[\"POPULAR\"]"
 msgid "Popular"
 msgstr "Popular"
 
-#, fuzzy
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
-msgstr "Category"
+msgstr "Kategori"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
@@ -429,7 +428,7 @@ msgstr "Aplikasi Berbayar"
 
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
-msgstr ""
+msgstr "game berbayar tidak boleh dimuat turun"
 
 msgctxt "[\"DETAIL-PAID_APP_DES\"]"
 msgid "Paid apps are not available to download"
@@ -661,11 +660,11 @@ msgstr "Skrin DPI"
 
 msgctxt "[\"VARIANT-ARCH\"]"
 msgid "Arch"
-msgstr ""
+msgstr "Lengkungan"
 
 msgctxt "[\"VARIANT-DPI\"]"
 msgid "DPI"
-msgstr ""
+msgstr "DPI"
 
 msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
 msgid "Total Reviews:"
@@ -1264,7 +1263,7 @@ msgstr "Nama negara atau kod Kawasan"
 
 msgctxt "[\"REGION_DOWN-MOBILE_TITLE\"]"
 msgid "APK Downloader"
-msgstr ""
+msgstr "Pemuat turun APK"
 
 msgctxt "[\"REGION_DOWN-MOBILE_DES\"]"
 msgid "All Region Games and Apps Download."
@@ -1587,7 +1586,7 @@ msgstr "Pasang dan mengemaskini XAPK dengan Aplikasi APKPure"
 
 msgctxt "[\"MARKET-INDEX_BANNER_TITLE\"]"
 msgid "APKPure APP"
-msgstr ""
+msgstr "APLIKASI APKPure"
 
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
@@ -1982,15 +1981,15 @@ msgstr "apk aplikasi android yang popular"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"kr\"]"
 msgid "원하는 언어를 <strong> 한국어 </strong>로 변경 하시겠습니까?"
-msgstr ""
+msgstr "Adakah anda ingin menukar bahasa pilihan anda ke bahasa"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"kr\"]"
 msgid "무시"
-msgstr ""
+msgstr "Abai"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"kr\"]"
 msgid "승인"
-msgstr ""
+msgstr "Ucapan terima kasih"
 
 msgctxt "[\"js\"][\"UPLOAD-TIMED_OUT\"]"
 msgid "File parsing timed out. (Error code: 10003)"
@@ -2179,7 +2178,7 @@ msgstr "Varian binaan {app_short_name} {version_name} dalam Android - Muat Turun
 
 msgctxt "[\"meta\"][\"Variants\"][\"keywords\"]"
 msgid ""
-msgstr ""
+msgstr "*"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
@@ -2840,3 +2839,56 @@ msgstr "Lihat APK yang tersedia"
 msgctxt "[\"xapk\"][\"VARIANTS\"]"
 msgid "This release comes in several variants, See available APKs"
 msgstr "Keluaran ini tersedia dalam beberapa varian, Lihat APK yang tersedia"
+
+msgctxt "[\"DETAIL-MORE_FROM\"]"
+msgid "More Apps from {0}"
+msgstr "Lebih banyak Apl dari {0}"
+
+msgctxt "[\"ADDITIONAL_INFORMATION\"]"
+msgid "Additional App Information"
+msgstr "Maklumat Aplikasi Tambahan"
+
+msgctxt "[\"UPLOADER\"]"
+msgid "App uploaded by"
+msgstr "Aplikasi dimuat naik oleh"
+
+msgctxt "[\"APP\"]"
+msgid "App"
+msgstr "Aplikasi"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"ms\"]"
+msgid "sahkan "
+msgstr "sahkan "
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ms\"]"
+msgid "abaikan"
+msgstr "abaikan"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ms\"]"
+msgid "Bahasa yang anda mahu <strong> Malay </strong>Adakah anda mahu berubah ke? "
+msgstr ""
+"Bahasa yang anda mahu <strong> Malay </strong>Adakah anda mahu berubah ke? "
+
+msgctxt "[\"PURE-NO-MORE-DATA\"]"
+msgid "No more data"
+msgstr "Tiada lagi data"
+
+msgctxt "[\"COPYRIGHT_MOBILE\"]"
+msgid "APKPure.com © 2014-2021"
+msgstr "APKPure.com © 2014-2021"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2021 APKPure All rights reserved."
+msgstr "Hak Cipta © 2014-2021 APKPure Semua hak terpelihara."
+
+msgctxt "[\"DETAIL-CATEGORY_APP\"]"
+msgid "{0} App"
+msgstr "{0} Aplikasi"
+
+msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
+msgid "{0} Game"
+msgstr "{0} Permainan"
+
+msgctxt "[\"GAME\"]"
+msgid "Game"
+msgstr "Game"
